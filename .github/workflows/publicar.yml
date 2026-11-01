@@ -1,0 +1,39 @@
+name: Validar e publicar
+
+# A rotina do Hub RI na nuvem grava numa branch claude/*. Este fluxo confere o resultado e, se estiver certo,
+# leva para a main, que é de onde o aplicativo baixa o vagas.json.
+on:
+  push:
+    branches: ['claude/**', 'main']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Testes das ferramentas
+        run: node --test ferramentas/*.test.mjs
+      - name: Conferir o vagas.json
+        run: node ferramentas/validar-vagas.mjs vagas.json
+      - name: Levar para a main
+        if: startsWith(github.ref, 'refs/heads/claude/')
+        run: |
+          git fetch origin main
+          # A rotina só pode mudar dados. Qualquer outro arquivo alterado trava a publicação.
+          mudou=$(git diff --name-only origin/main...HEAD | grep -v -x -e 'vagas.json' -e 'lidos-do-drive.json' || true)
+          if [ -n "$mudou" ]; then
+            echo "Arquivos fora do permitido foram alterados:"
+            echo "$mudou"
+            exit 1
+          fi
+          git merge-base --is-ancestor origin/main HEAD || { echo "A branch não parte da main atual."; exit 1; }
+          git push origin HEAD:main
