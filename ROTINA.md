@@ -14,7 +14,7 @@ Caminho dos dados: o Gemini cria o documento no Drive → esta rotina lê, valid
 
 ## Passo a passo
 1. Leia `lidos-do-drive.json`: lista dos documentos já processados (`id` e `modificadoEm`).
-2. No Drive, procure documentos Google Docs cujo título comece com `HUBRI vagas` (inclui `HUBRI vagas-todas`, `vagas-ongs`, `vagas-organismos`, `vagas-comex`) criados ou modificados depois do último registro. Use `search_files` com `title contains 'HUBRI vagas'` e, se vier vazio, `list_recent_files`. Documentos `HUBRI selecoes` são tratados no passo 8. Documentos `HUBRI pos-e-bolsas`, `biblioteca` e `organizacoes` **não** são desta rotina: só cite no relatório que existem.
+2. No Drive, procure documentos Google Docs cujo título comece com `HUBRI vagas` (inclui `HUBRI vagas-todas`, `vagas-ongs`, `vagas-organismos`, `vagas-comex` e `vagas-consultorias`) criados ou modificados depois do último registro. Use `search_files` com `title contains 'HUBRI vagas'` e, se vier vazio, `list_recent_files`. Documentos `HUBRI selecoes` são tratados no passo 8. Documentos `HUBRI pos-e-bolsas`, `biblioteca` e `organizacoes` **não** são desta rotina: só cite no relatório que existem.
 3. Para cada documento novo ou modificado, chame `download_file_content` (o `read_file_content` volta vazio nesses documentos). O retorno é o texto em base64. Grave-o **exatamente como veio**, sem decodificar à mão, com a ferramenta Write em `tmp/ID.b64` (a pasta `tmp/` não vai ao Git; crie-a se precisar). Depois rode:
    `node ferramentas/decodificar-achado.mjs tmp/ID.b64 tmp/ID.json`
    Se disser que o fim estava cortado, siga assim mesmo e registre no relatório quantos itens foram lidos. Se não achar lista nenhuma, registre e passe ao próximo.
