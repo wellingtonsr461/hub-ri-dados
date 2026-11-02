@@ -106,3 +106,24 @@ test('linkExiste recusa 404 e 410, e aceita o resto, inclusive erro de rede', as
     true,
   );
 });
+
+test('aceita áreas vizinhas de RI (geografia, história, defesa...) e o nível especialização', () => {
+  for (const area of ['geografia', 'historia', 'ciencias-sociais', 'comunicacao-letras', 'meio-ambiente', 'politicas-publicas', 'defesa-seguranca']) {
+    assert.equal(validarAchado({ ...ACHADO, area }, HOJE).selecao?.area, area);
+  }
+  assert.deepEqual(validarAchado({ ...ACHADO, niveis: ['especializacao'] }, HOJE).selecao?.niveis, ['especializacao']);
+  assert.match(validarAchado({ ...ACHADO, area: 'medicina' }, HOJE).motivo, /área desconhecida/);
+});
+
+test('limparVencidas tira a seleção encerrada há mais de 120 dias e guarda as demais, inclusive sem prazo', async () => {
+  const { limparVencidas } = await import('./importar-selecoes.mjs');
+  const lista = [
+    { id: 'velha', inscricoesAte: '2026-05-01' },
+    { id: 'recente', inscricoesAte: '2026-09-30' },
+    { id: 'aberta', inscricoesAte: '2026-12-01' },
+    { id: 'sem-prazo', inscricoesAte: null },
+  ];
+  const { lista: mantidas, removidas } = limparVencidas(lista, HOJE);
+  assert.deepEqual(removidas.map((s) => s.id), ['velha']);
+  assert.deepEqual(mantidas.map((s) => s.id), ['recente', 'aberta', 'sem-prazo']);
+});

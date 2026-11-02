@@ -1,0 +1,451 @@
+{
+  "conferidoEm": "2026-10-29",
+  "selecoes": [
+    {
+      "id": "ufg-ppgadm-2027",
+      "programa": "Administração (PPGADM)",
+      "instituicao": "Universidade Federal de Goiás (UFG)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-10-09",
+      "inscricoesAte": "2026-11-24",
+      "link": "https://files.cercomp.ufg.br/weby/up/711/o/Edital_01_2026_PS2027_Regular__pub_ii_assinado-MS_assinado.pdf",
+      "fonte": "Resultado de busca sobre o Edital 01/2026 de seleção para 2027 da UFG; o PDF não foi aberto, então confirme as datas nele",
+      "area": "administracao"
+    },
+    {
+      "id": "ufu-ppgri-2027",
+      "programa": "Relações Internacionais (PPGRI)",
+      "instituicao": "Universidade Federal de Uberlândia (UFU)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-09-25",
+      "inscricoesAte": "2026-10-18",
+      "link": "https://ppgri.ieri.ufu.br/sites/ppgri.ieri.ufu.br/files//media/document//sei_7536085_edital_1.pdf",
+      "fonte": "Edital PPGRI/IERI/UFU nº 1/2026, publicado em 29/07/2026; datas de inscrição lidas no item 4.6 (mestrado e doutorado), em 29/10/2026",
+      "area": "ri"
+    },
+    {
+      "id": "ufrgs-ppgeei-mestrado-2027",
+      "programa": "Estudos Estratégicos Internacionais (PPGEEI)",
+      "instituicao": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": "2027",
+      "inscricoesDe": "2026-09-16",
+      "inscricoesAte": "2026-09-30",
+      "link": "https://www.ufrgs.br/ppgeei/wp-content/uploads/2026/08/edital_de_mestrado-2027.pdf",
+      "fonte": "Edital de mestrado 2027 do PPGEEI, publicado em agosto de 2026; datas de inscrição lidas no título VI (cronograma), em 29/10/2026",
+      "area": "ri"
+    },
+    {
+      "id": "ufrgs-ppgeei-doutorado-2027",
+      "programa": "Estudos Estratégicos Internacionais (PPGEEI)",
+      "instituicao": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+      "esfera": "federal",
+      "niveis": [
+        "doutorado"
+      ],
+      "ingresso": "2027",
+      "inscricoesDe": null,
+      "inscricoesAte": null,
+      "link": "https://www.ufrgs.br/ppgeei/wp-content/uploads/2026/08/2027-Edital_de_Doutorado_PPGEEI.pdf",
+      "fonte": "Edital de doutorado 2027 do PPGEEI, publicado em agosto de 2026; as datas de inscrição não foram lidas",
+      "area": "ri"
+    },
+    {
+      "id": "ufrgs-ppge-anpec-2027",
+      "programa": "Economia (PPGE), seleção pela ANPEC",
+      "instituicao": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": "2027",
+      "inscricoesDe": null,
+      "inscricoesAte": null,
+      "link": "https://www.ufrgs.br/ppge/wp-content/uploads/2026/08/Edital-Mestrado-Anpec-2027.pdf",
+      "fonte": "Edital nº 02/2026 do PPGE-UFRGS (mestrado, modalidade ANPEC); as datas de inscrição não foram lidas",
+      "area": "economia"
+    },
+    {
+      "id": "ufrj-pepi-mestrado-2027",
+      "programa": "Economia Política Internacional (PEPI)",
+      "instituicao": "Universidade Federal do Rio de Janeiro (UFRJ), Instituto de Economia",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": "2027",
+      "inscricoesDe": "2026-08-14",
+      "inscricoesAte": "2026-09-30",
+      "link": "https://www.ie.ufrj.br/images/IE/PEPI/2026/SELE%C3%87%C3%83O/Edital%20848-2026.pdf",
+      "fonte": "Edital 848/2026 do PEPI-UFRJ (mestrado); as datas de inscrição não foram lidas",
+      "area": "economia"
+    },
+    {
+      "id": "ufrj-pepi-doutorado-2027",
+      "programa": "Economia Política Internacional (PEPI)",
+      "instituicao": "Universidade Federal do Rio de Janeiro (UFRJ), Instituto de Economia",
+      "esfera": "federal",
+      "niveis": [
+        "doutorado"
+      ],
+      "ingresso": "2027",
+      "inscricoesDe": "2026-08-14",
+      "inscricoesAte": "2026-09-30",
+      "link": "https://www.ie.ufrj.br/images/IE/PEPI/2026/SELE%C3%87%C3%83O/Edital%20849-2026.pdf",
+      "fonte": "Edital 849/2026 do PEPI-UFRJ (doutorado); datas de inscrição lidas no anexo 1, em 29/10/2026",
+      "area": "economia"
+    },
+    {
+      "id": "usp-iri-2027",
+      "programa": "Relações Internacionais (IRI)",
+      "instituicao": "Universidade de São Paulo (USP), Instituto de Relações Internacionais",
+      "esfera": "estadual",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": "2027",
+      "inscricoesDe": "2026-07-15",
+      "inscricoesAte": "2026-08-07",
+      "link": "https://www.fuvest.br/iriusp/",
+      "fonte": "Página da Fuvest sobre a seleção do IRI 2027 (inscrições de 15/07 a 07/08/2026)",
+      "area": "ri"
+    },
+    {
+      "id": "unirio-cienciapolitica-2027",
+      "programa": "Ciência Política (com linha de Relações Internacionais)",
+      "instituicao": "Universidade Federal do Estado do Rio de Janeiro (UNIRIO)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": null,
+      "inscricoesDe": null,
+      "inscricoesAte": "2026-08-27",
+      "link": "https://www.unirio.br/news/inscricoes-abertas-para-o-curso-de-mestrado-em-ciencia-politica",
+      "fonte": "Notícia da UNIRIO sobre as inscrições do mestrado em Ciência Política, até 27 de agosto",
+      "area": "ciencia-politica"
+    },
+    {
+      "id": "ufmg-cienciapolitica-2027",
+      "programa": "Ciência Política",
+      "area": "ciencia-politica",
+      "instituicao": "Universidade Federal de Minas Gerais (UFMG)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-08-10",
+      "inscricoesAte": "2026-09-09",
+      "link": "https://www.ufmg.br/prpg/wp-content/uploads/2021/08/Ciencia-Politica_2027.pdf",
+      "fonte": "Edital de Ciência Política 2027 da UFMG, segundo resultado de busca (inscrições de 10/08 a 09/09/2026); o PDF não foi aberto"
+    },
+    {
+      "id": "uerj-iesp-cienciapolitica-2027",
+      "programa": "Ciência Política (IESP)",
+      "area": "ciencia-politica",
+      "instituicao": "Universidade do Estado do Rio de Janeiro (UERJ)",
+      "esfera": "estadual",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-06-01",
+      "inscricoesAte": "2026-07-01",
+      "link": "https://iesp.uerj.br/wp-content/uploads/2026/05/Edital_do_Mestrado_em_Ciencia_Politica__Aprovado_.pdf",
+      "fonte": "Edital do mestrado em Ciência Política do IESP-UERJ, segundo resultado de busca (inscrições de 01/06 a 01/07/2026); o PDF não foi aberto"
+    },
+    {
+      "id": "usp-cienciapolitica-2027",
+      "programa": "Ciência Política",
+      "area": "ciencia-politica",
+      "instituicao": "Universidade de São Paulo (USP), FFLCH",
+      "esfera": "estadual",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": "2027",
+      "inscricoesDe": null,
+      "inscricoesAte": null,
+      "link": "https://dcp.fflch.usp.br/sites/dcp.fflch.usp.br/files/PPG%20Ci%C3%AAncia%20Pol%C3%ADtica/Processo%20Seletivo%202026_2027/2026_2027_Edital%20retificado%20em%208%20de%20julho_final.pdf",
+      "fonte": "Edital PPG Ciência Política 01/2026 da USP, retificado em 8 de julho; as datas de inscrição não foram lidas e provavelmente já passaram"
+    },
+    {
+      "id": "ufmg-cedeplar-economia-doutorado-2027",
+      "programa": "Economia (Cedeplar), doutorado regular",
+      "area": "economia",
+      "instituicao": "Universidade Federal de Minas Gerais (UFMG)",
+      "esfera": "federal",
+      "niveis": [
+        "doutorado"
+      ],
+      "ingresso": "2027",
+      "inscricoesDe": "2026-07-30",
+      "inscricoesAte": "2026-09-30",
+      "link": "https://cedeplar.ufmg.br/images/Selecao%20Economia/SEI_5366728_Edital_1709%20EDITAL%20REGULAR%20SELECAO%20DOUTORADO%20ECONOMIA%202027.pdf",
+      "fonte": "Edital regular do doutorado em Economia 2027 do Cedeplar, segundo resultado de busca (inscrições de 30/07 a 30/09/2026); o PDF não foi aberto"
+    },
+    {
+      "id": "ufjf-economia-doutorado-2027",
+      "programa": "Economia (PPGE), doutorado",
+      "area": "economia",
+      "instituicao": "Universidade Federal de Juiz de Fora (UFJF)",
+      "esfera": "federal",
+      "niveis": [
+        "doutorado"
+      ],
+      "ingresso": "2027",
+      "inscricoesDe": "2026-07-20",
+      "inscricoesAte": "2026-10-28",
+      "link": "https://www2.ufjf.br/poseconomia/wp-content/uploads/sites/118/2026/07/Edital_Selecao_Doutorado_2027_PPGE_UFJF.pdf",
+      "fonte": "Edital do doutorado em Economia 2027 da UFJF, segundo resultado de busca (inscrições de 20/07 a 28/10/2026); o PDF não foi aberto"
+    },
+    {
+      "id": "ufc-caen-economia-doutorado-2027",
+      "programa": "Economia (CAEN), doutorado",
+      "area": "economia",
+      "instituicao": "Universidade Federal do Ceará (UFC)",
+      "esfera": "federal",
+      "niveis": [
+        "doutorado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-11-03",
+      "inscricoesAte": "2027-01-08",
+      "link": "https://caen.ufc.br/wp-content/uploads/2026/07/edital-n%C2%B0-04-2026-caen-ufc-doutorado-2027.1.pdf",
+      "fonte": "Edital nº 04/2026 do CAEN-UFC, segundo resultado de busca (inscrições de 03/11/2026 a 08/01/2027, \"sujeitas a ajuste\"); o PDF não foi aberto"
+    },
+    {
+      "id": "ufrgs-ppge-doutorado-2027",
+      "programa": "Economia (PPGE), doutorado",
+      "area": "economia",
+      "instituicao": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+      "esfera": "federal",
+      "niveis": [
+        "doutorado"
+      ],
+      "ingresso": "2027",
+      "inscricoesDe": null,
+      "inscricoesAte": null,
+      "link": "https://www.ufrgs.br/ppge/wp-content/uploads/2026/08/Edital-Doutorado-2027.pdf",
+      "fonte": "Edital do doutorado 2027 do PPGE-UFRGS, publicado em agosto de 2026; as datas de inscrição não foram lidas"
+    },
+    {
+      "id": "usp-direito-2027",
+      "programa": "Direito (inclui Direito Internacional e do Comércio Internacional)",
+      "area": "direito",
+      "instituicao": "Universidade de São Paulo (USP), Faculdade de Direito",
+      "esfera": "estadual",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": "2027",
+      "inscricoesDe": "2026-06-05",
+      "inscricoesAte": "2026-07-15",
+      "link": "https://www.fuvest.br/wp-content/uploads/fd2027-edital.pdf",
+      "fonte": "Edital da pós-graduação em Direito da USP 2027 (Fuvest), inscrições de 05/06 a 15/07/2026"
+    },
+    {
+      "id": "ufc-direito-2027",
+      "programa": "Direito (PPGD)",
+      "area": "direito",
+      "instituicao": "Universidade Federal do Ceará (UFC)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": "2027",
+      "inscricoesDe": null,
+      "inscricoesAte": null,
+      "link": "https://ppgdireito.ufc.br/wp-content/uploads/2026/07/edital-selecao-turmas-2027-ppgd-ufc-assinado.pdf",
+      "fonte": "Edital de seleção das turmas 2027 do PPGD-UFC; as datas de inscrição não foram lidas"
+    },
+    {
+      "id": "ufu-direito-2027",
+      "programa": "Direito (PPGDI)",
+      "area": "direito",
+      "instituicao": "Universidade Federal de Uberlândia (UFU)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-07-03",
+      "inscricoesAte": "2026-07-13",
+      "link": "https://ppgdi.fadir.ufu.br/sites/ppgdi.fadir.ufu.br/files/media/document/sei_7367226_edital_5.pdf",
+      "fonte": "Edital PPGDI nº 5/2026 da UFU para a turma 2027-1; as datas de inscrição não foram lidas"
+    },
+    {
+      "id": "furg-direito-2027",
+      "programa": "Direito (mestrado)",
+      "area": "direito",
+      "instituicao": "Universidade Federal do Rio Grande (FURG)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": "2027",
+      "inscricoesDe": "2026-08-10",
+      "inscricoesAte": "2026-08-31",
+      "link": "https://www.furg.br/arquivos/Editais/27-08-2026-ProcessoSeletivo_2027-mestrado-fadir-furg.pdf",
+      "fonte": "Processo seletivo 2027 do mestrado em Direito da FURG, segundo resultado de busca (inscrições de 10/08 a 31/08/2026); o PDF não foi aberto"
+    },
+    {
+      "id": "ufmg-administracao-2027",
+      "programa": "Administração (edital regular)",
+      "area": "administracao",
+      "instituicao": "Universidade Federal de Minas Gerais (UFMG)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": "2027",
+      "inscricoesDe": "2026-09-18",
+      "inscricoesAte": "2026-10-17",
+      "link": "https://www.ufmg.br/prpg/wp-content/uploads/2021/08/Administracao_Edital_Regular_2027.pdf",
+      "fonte": "Edital regular de Administração 2027 da UFMG; as datas de inscrição não foram lidas"
+    },
+    {
+      "id": "universidade-federal-de-goias-ufg-ciencia-politica-e-relacoes-internacionais-ppgcpri-2026",
+      "programa": "Ciência Política e Relações Internacionais (PPGCPRI)",
+      "area": "ri",
+      "instituicao": "Universidade Federal de Goiás (UFG)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": null,
+      "inscricoesDe": "2026-10-16",
+      "inscricoesAte": "2026-11-03",
+      "link": "https://files.cercomp.ufg.br/weby/up/339/o/Edital_PPGCPRI_turma_2027_MD_-_Revisado_PRPG_%281%29.pdf",
+      "fonte": "Edital nº 002/2026 do PPGCPRI-UFG, cronograma (item 4.1). Achado com Claude em 29/10/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-de-brasilia-unb-relacoes-internacionais-ppgri-doutorado-2026",
+      "programa": "Relações Internacionais (PPGRI), doutorado",
+      "area": "ri",
+      "instituicao": "Universidade de Brasília (UnB)",
+      "esfera": "federal",
+      "niveis": [
+        "doutorado"
+      ],
+      "ingresso": null,
+      "inscricoesDe": "2026-10-01",
+      "inscricoesAte": "2026-10-25",
+      "link": "https://dpg.unb.br/wp-content/uploads/2026/09/2026_Minuta_Doutorado_2708_assinado.pdf",
+      "fonte": "Edital do doutorado do PPGRI-UnB, cronograma (período de inscrições 01/10 a 25/10/2026). Achado com Claude em 29/10/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-de-brasilia-unb-relacoes-internacionais-ppgri-1-semestre-de-2027",
+      "programa": "Relações Internacionais (PPGRI)",
+      "area": "ri",
+      "instituicao": "Universidade de Brasília (UnB)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-10-01",
+      "inscricoesAte": "2026-10-25",
+      "link": "https://irel.unb.br/processo-seletivo-mestrado-e-doutorado-ano-letivo-2027/",
+      "fonte": "Página do processo seletivo 2027 do IREL/UnB, lida em 29/10/2026. Achado com Claude em 29/10/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-federal-fluminense-uff-direito-ppgd-esd-2-semestre-de-2027",
+      "programa": "Direito (PPGD/ESD)",
+      "area": "direito",
+      "instituicao": "Universidade Federal Fluminense (UFF)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": "2º semestre de 2027",
+      "inscricoesDe": "2027-01-07",
+      "inscricoesAte": "2027-02-15",
+      "link": "https://ppgd.uff.br/wp-content/uploads/sites/184/2026/10/PPGD_Edital_Selecao_Mestrado_e_Doutorado_2027_assinado.pdf",
+      "fonte": "Edital PPGD/ESD/UFF nº 01/2026, art. 12, lido em PDF em 29/10/2026. Achado com Claude em 29/10/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-federal-fluminense-uff-economia-ppge-doutorado-2027",
+      "programa": "Economia (PPGE), doutorado",
+      "area": "economia",
+      "instituicao": "Universidade Federal Fluminense (UFF)",
+      "esfera": "federal",
+      "niveis": [
+        "doutorado"
+      ],
+      "ingresso": "2027",
+      "inscricoesDe": "2026-08-21",
+      "inscricoesAte": "2026-10-09",
+      "link": "https://editais.uff.br/sites/default/files/arquivos/Edital_PPGE_003_2026-doutorado_1.2027%20%281%29.pdf",
+      "fonte": "Edital PPGE/UFF nº 003/2026, item 1.4, lido em PDF em 29/10/2026. Achado com Claude em 29/10/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-federal-de-santa-maria-ufsm-relacoes-internacionais-ppgri-2027-1",
+      "programa": "Relações Internacionais (PPGRI)",
+      "area": "ri",
+      "instituicao": "Universidade Federal de Santa Maria (UFSM)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": "2027/1",
+      "inscricoesDe": null,
+      "inscricoesAte": null,
+      "link": "https://www.ufsm.br/cursos/pos-graduacao/santa-maria/ppgri/editais/033-2026",
+      "fonte": "Página do Edital PRPGP/UFSM nº 033/2026 (1ª janela); a lista de aptos saiu em 28/10/2026 e o cronograma do PDF não traz as datas de inscrição. Achado com Claude em 29/10/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-federal-de-sao-paulo-unifesp-relacoes-internacionais-estudos-do-sul-global-ppgri-1-semestre-de-2027",
+      "programa": "Relações Internacionais, Estudos do Sul Global (PPGRI)",
+      "area": "ri",
+      "instituicao": "Universidade Federal de São Paulo (Unifesp)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-09-03",
+      "inscricoesAte": "2026-10-20",
+      "link": "https://ppgri.unifesp.br/",
+      "fonte": "Página do PPGRI/Unifesp, lida em 29/10/2026. Achado com Claude em 29/10/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-federal-da-integracao-latino-americana-unila-relacoes-internacionais-ppg-ri-1-semestre-de-2027",
+      "programa": "Relações Internacionais (PPG-RI)",
+      "area": "ri",
+      "instituicao": "Universidade Federal da Integração Latino-Americana (UNILA)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": null,
+      "inscricoesAte": "2026-10-04",
+      "link": "https://portal.unila.edu.br/noticias/unila-abre-inscricoes-para-o-mestrado-em-relacoes-internacionais",
+      "fonte": "Notícia da UNILA de 30/07/2026 (prazo 'até 4 de outubro', ano deduzido da data da notícia). Achado com Claude em 29/10/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    }
+  ]
+}

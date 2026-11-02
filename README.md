@@ -1,9 +1,10 @@
 # Hub RI: dados públicos
 
 Arquivos de dados que o aplicativo Hub RI baixa para se atualizar sem precisar de um APK novo.
-Contêm apenas listas de vagas com link para o anúncio oficial de cada organização. Nenhum dado de usuário, chave ou código do aplicativo.
+Contêm apenas listas de vagas e de seleções de pós, cada uma com o link oficial. Nenhum dado de usuário, chave ou código do aplicativo.
 
 - `vagas.json`: vagas escolhidas pelo Hub. Atualizado por uma rotina que lê o resultado da pesquisa, confere formato e links e só então grava.
+- `selecoes-pos.json`: seleções de mestrado, doutorado e especialização em universidades públicas, de RI e de áreas vizinhas (geografia, história, economia, direito, defesa e outras). Atualizado todo dia pela mesma rotina.
 - `ferramentas/`: os pequenos scripts que a rotina usa para ler, validar e mesclar as vagas (sem dependências, só Node).
 - `ROTINA.md`: a instrução da rotina automática. `lidos-do-drive.json`: quais documentos de pesquisa já foram lidos.
 - `.github/workflows/publicar.yml`: confere o resultado e só então leva para a `main`.

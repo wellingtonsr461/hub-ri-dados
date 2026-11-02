@@ -13,9 +13,23 @@ import { copyFileSync, existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-export const AREAS = ['ri', 'ciencia-politica', 'economia', 'direito', 'administracao'];
+// Quem é de RI também faz pós em áreas vizinhas: por isso a lista vai além de RI (mesmas áreas de app/src/dominio/selecoes-pos.ts).
+export const AREAS = [
+  'ri',
+  'ciencia-politica',
+  'economia',
+  'direito',
+  'administracao',
+  'geografia',
+  'historia',
+  'ciencias-sociais',
+  'comunicacao-letras',
+  'meio-ambiente',
+  'politicas-publicas',
+  'defesa-seguranca',
+];
 export const ESFERAS = ['federal', 'estadual'];
-export const NIVEIS = ['mestrado', 'doutorado'];
+export const NIVEIS = ['mestrado', 'doutorado', 'especializacao'];
 
 const DIA_EM_MS = 24 * 60 * 60 * 1000;
 // Seleção encerrada há mais que isto não ajuda ninguém e fica de fora.
@@ -89,7 +103,7 @@ export function validarAchado(bruto, hoje, por = 'o ChatGPT') {
   if (!programa || !instituicao) return { motivo: 'falta programa ou instituição', rotulo };
   if (!esfera) return { motivo: 'esfera precisa ser "federal" ou "estadual" (só universidades públicas)', rotulo };
   if (!area) return { motivo: `área desconhecida (use: ${AREAS.join(', ')})`, rotulo };
-  if (niveis.length === 0) return { motivo: 'niveis precisa ser uma lista com "mestrado" e/ou "doutorado"', rotulo };
+  if (niveis.length === 0) return { motivo: 'niveis precisa ser uma lista com "mestrado", "doutorado" e/ou "especializacao"', rotulo };
   if (!link || !/^https:\/\/[^\s]+$/.test(link)) return { motivo: 'link ausente ou sem https', rotulo };
   let host;
   try {
@@ -127,6 +141,17 @@ export function validarAchado(bruto, hoje, por = 'o ChatGPT') {
       fonte: `${fonteDada.replace(/\.+$/, '')}. Achado com ${por} em ${d}/${m}/${a}; o edital não foi aberto pelo Hub RI: confira as datas nele`,
     },
   };
+}
+
+// Tira da lista a seleção cujas inscrições terminaram há mais que a tolerância: o app não precisa mostrar o que passou faz meses.
+export function limparVencidas(lista, hoje) {
+  const manter = [];
+  const removidas = [];
+  for (const s of lista) {
+    const vencida = s.inscricoesAte && (Date.parse(`${hoje}T00:00:00Z`) - Date.parse(`${s.inscricoesAte}T00:00:00Z`)) / DIA_EM_MS > DIAS_DE_TOLERANCIA;
+    (vencida ? removidas : manter).push(s);
+  }
+  return { lista: manter, removidas };
 }
 
 // Junta os achados na lista que já existe. Mesmo link = mesma seleção: só completa as datas que faltavam. Mesmo id com link novo é recusado.
@@ -196,7 +221,8 @@ async function principal(args) {
     process.exitCode = 1;
     return;
   }
-  const destino = join(dirname(fileURLToPath(import.meta.url)), '..', '..', 'app', 'src', 'dados', 'selecoes-pos.json');
+  // HUBRI_SELECOES aponta para outro selecoes-pos.json (a rotina na nuvem trabalha no repositório de dados, onde o arquivo fica na raiz).
+  const destino = process.env.HUBRI_SELECOES ?? join(dirname(fileURLToPath(import.meta.url)), '..', '..', 'app', 'src', 'dados', 'selecoes-pos.json');
   const dados = JSON.parse(readFileSync(destino, 'utf8'));
 
   let achados = lista;
@@ -211,8 +237,11 @@ async function principal(args) {
   }
 
   const r = mesclar(dados.selecoes, achados, hoje, por);
+  const limpa = limparVencidas(r.lista, hoje);
+  r.lista = limpa.lista;
   r.recusadas.push(...semLink);
-  console.log(`Adicionadas: ${r.adicionadas.length} | Atualizadas: ${r.atualizadas.length} | Recusadas: ${r.recusadas.length}`);
+  console.log(`Adicionadas: ${r.adicionadas.length} | Atualizadas: ${r.atualizadas.length} | Recusadas: ${r.recusadas.length} | Removidas por vencimento: ${limpa.removidas.length}`);
+  for (const a of limpa.removidas) console.log(`  - ${a.programa} / ${a.instituicao} (encerrada em ${a.inscricoesAte})`);
   for (const a of r.adicionadas) console.log(`  + ${a.rotulo}`);
   for (const a of r.atualizadas) console.log(`  ~ ${a.rotulo} (${a.campos.join(', ')})`);
   for (const a of r.recusadas) console.log(`  x ${a.rotulo}: ${a.motivo}`);
@@ -220,7 +249,7 @@ async function principal(args) {
     console.log('\nNada foi gravado. Rode de novo com --aplicar para gravar.');
     return;
   }
-  if (r.adicionadas.length === 0 && r.atualizadas.length === 0) {
+  if (r.adicionadas.length === 0 && r.atualizadas.length === 0 && limpa.removidas.length === 0) {
     console.log('\nNada a gravar.');
     return;
   }
