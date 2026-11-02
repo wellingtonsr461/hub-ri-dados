@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-10-29",
+  "conferidoEm": "2026-11-02",
   "selecoes": [
     {
       "id": "ufg-ppgadm-2027",
@@ -446,6 +446,83 @@
       "inscricoesAte": "2026-10-04",
       "link": "https://portal.unila.edu.br/noticias/unila-abre-inscricoes-para-o-mestrado-em-relacoes-internacionais",
       "fonte": "Notícia da UNILA de 30/07/2026 (prazo 'até 4 de outubro', ano deduzido da data da notícia). Achado com Claude em 29/10/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "ufam-ppgeog-2027",
+      "programa": "Geografia (PPGEOG)",
+      "instituicao": "Universidade Federal do Amazonas (UFAM)",
+      "area": "geografia",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-09-08",
+      "inscricoesAte": "2026-10-08",
+      "link": "https://edoc.ufam.edu.br/bitstream/123456789/11992/1/EDITAL%20N.%c2%ba%20037-2026-PROPESP-UFAM-PPGEOG-M-D-2027-1-Site.pdf",
+      "fonte": "Edital nº 037/2026-PROPESP/UFAM, item 3.1 (inscrição de 08/09 a 08/10/2026), lido em 02/11/2026",
+      "esfera": "federal"
+    },
+    {
+      "id": "ufjf-ppgeo-doutorado-2027",
+      "programa": "Geografia (PPGEO)",
+      "instituicao": "Universidade Federal de Juiz de Fora (UFJF)",
+      "area": "geografia",
+      "niveis": [
+        "doutorado"
+      ],
+      "ingresso": "2027",
+      "inscricoesDe": "2026-09-08",
+      "inscricoesAte": "2026-10-09",
+      "link": "https://www2.ufjf.br/ppgeografia/wp-content/uploads/sites/155/2026/08/Edital-DOUTORADO_2027.pdf",
+      "fonte": "Edital de doutorado 2027 do PPGEO/UFJF, item 2.1 (inscrição de 08/09 a 09/10/2026), lido em 02/11/2026",
+      "esfera": "federal"
+    },
+    {
+      "id": "ufes-ppgps-mestrado-2027",
+      "programa": "Política Social (PPGPS)",
+      "instituicao": "Universidade Federal do Espírito Santo (UFES)",
+      "area": "politicas-publicas",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": "2027",
+      "inscricoesDe": "2026-09-02",
+      "inscricoesAte": "2026-09-17",
+      "link": "https://prppg.ufes.br/sites/prppg.ufes.br/files/field/anexo/edital_selecao_mestrado_2027_ppgps.pdf",
+      "fonte": "Edital de seleção 2027 do mestrado do PPGPS/UFES (inscrições de 02 a 17/09/2026), lido em 02/11/2026",
+      "esfera": "federal"
+    },
+    {
+      "id": "ufes-ppgps-doutorado-2027",
+      "programa": "Política Social (PPGPS), doutorado",
+      "instituicao": "Universidade Federal do Espírito Santo (UFES)",
+      "area": "politicas-publicas",
+      "niveis": [
+        "doutorado"
+      ],
+      "ingresso": "2027",
+      "inscricoesDe": "2026-09-02",
+      "inscricoesAte": "2026-09-17",
+      "link": "https://politicasocial.ufes.br/sites/politicasocial.ufes.br/files/field/anexo/edital_selecao_doutorado_ppgps_2027_0.pdf",
+      "fonte": "Edital de seleção 2027 do doutorado do PPGPS/UFES (inscrições de 02 a 17/09/2026), lido em 02/11/2026",
+      "esfera": "federal"
+    },
+    {
+      "id": "uffs-ppgdpp-2027",
+      "programa": "Desenvolvimento e Políticas Públicas (PPGDPP), Cerro Largo",
+      "instituicao": "Universidade Federal da Fronteira Sul (UFFS)",
+      "area": "politicas-publicas",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-09-01",
+      "inscricoesAte": "2026-10-15",
+      "link": "https://boletim-mgm.uffs.edu.br/atos-normativos/edital/ppgdppcl/2026-0009/@@download/documento_historico",
+      "fonte": "Edital nº 09/2026 do PPGDPP/UFFS, item 3.2 (inscrição de 01/09 a 15/10/2026), lido em 02/11/2026",
+      "esfera": "federal"
     }
   ]
 }
