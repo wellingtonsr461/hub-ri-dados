@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-01",
+  "conferidoEm": "2026-11-02",
   "vagas": [
     {
       "id": "oit-organizacao-internacional-do-trabalho-coordenador-a-nacional-de-projetos-national-project-coordinator-noa-2026-10-30",
@@ -645,6 +645,21 @@
       "link": "https://viveo.gupy.io/job/eyJqb2JJZCI6MTI3ODgxNzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "fonte": "Página oficial de carreiras da Viveo no Gupy (viveo.gupy.io). Achada com Gemini em 01/11/2026; confira no anúncio",
       "vistaEm": "2026-11-01"
+    },
+    {
+      "id": "brz-advogados-advogado-a-junior-relacoes-governamentais-2026-11-02",
+      "titulo": "Advogado(a) Júnior - Relações Governamentais",
+      "organizacao": "BRZ Advogados",
+      "campo": "analise",
+      "tipo": "efetivo",
+      "local": "Brasília, Brasil",
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato de associado / efetivo",
+      "nota": "Atuação em relações governamentais, monitoramento legislativo, análise regulatória e interação institucional em Brasília.",
+      "link": "https://brz.gupy.io/",
+      "fonte": "Página oficial de carreiras do BRZ Advogados no Gupy (brz.gupy.io). Achada com Gemini em 02/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-02"
     }
   ]
 }
