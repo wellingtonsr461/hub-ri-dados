@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-02",
+  "conferidoEm": "2026-11-03",
   "vagas": [
     {
       "id": "oit-organizacao-internacional-do-trabalho-coordenador-a-nacional-de-projetos-national-project-coordinator-noa-2026-10-30",
@@ -660,6 +660,21 @@
       "link": "https://brz.gupy.io/",
       "fonte": "Página oficial de carreiras do BRZ Advogados no Gupy (brz.gupy.io). Achada com Gemini em 02/11/2026; confira no anúncio",
       "vistaEm": "2026-11-02"
+    },
+    {
+      "id": "pnud-projeto-bra-23-023-tr-151-26-consultoria-especializada-para-pesquisa-sobre-transformacao-tecnologica-e-impactos-no-",
+      "titulo": "PROJETO BRA 23/023 - TR 151/26 - Consultoria Especializada para Pesquisa sobre Transformação Tecnológica e Impactos no Mercado de Trabalho",
+      "organizacao": "PNUD",
+      "campo": "organismos",
+      "tipo": "consultoria",
+      "local": "Brasília, Brasil",
+      "remoto": true,
+      "prazo": null,
+      "contrato": "Consultoria individual por produto (Individual Contract - IC)",
+      "nota": "Pesquisa aplicada sobre transformação tecnológica, impactos no mercado de trabalho e desenvolvimento humano no Brasil.",
+      "link": "https://parceiros.undp.org.br/opportunities",
+      "fonte": "Portal oficial de oportunidades e editais do PNUD Brasil (parceiros.undp.org.br). Achada com Gemini em 03/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-03"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-02",
+  "conferidoEm": "2026-11-03",
   "selecoes": [
     {
       "id": "ufg-ppgadm-2027",
@@ -154,21 +154,6 @@
       "inscricoesAte": "2026-09-09",
       "link": "https://www.ufmg.br/prpg/wp-content/uploads/2021/08/Ciencia-Politica_2027.pdf",
       "fonte": "Edital de Ciência Política 2027 da UFMG, segundo resultado de busca (inscrições de 10/08 a 09/09/2026); o PDF não foi aberto"
-    },
-    {
-      "id": "uerj-iesp-cienciapolitica-2027",
-      "programa": "Ciência Política (IESP)",
-      "area": "ciencia-politica",
-      "instituicao": "Universidade do Estado do Rio de Janeiro (UERJ)",
-      "esfera": "estadual",
-      "niveis": [
-        "mestrado"
-      ],
-      "ingresso": "1º semestre de 2027",
-      "inscricoesDe": "2026-06-01",
-      "inscricoesAte": "2026-07-01",
-      "link": "https://iesp.uerj.br/wp-content/uploads/2026/05/Edital_do_Mestrado_em_Ciencia_Politica__Aprovado_.pdf",
-      "fonte": "Edital do mestrado em Ciência Política do IESP-UERJ, segundo resultado de busca (inscrições de 01/06 a 01/07/2026); o PDF não foi aberto"
     },
     {
       "id": "usp-cienciapolitica-2027",
@@ -523,6 +508,99 @@
       "link": "https://boletim-mgm.uffs.edu.br/atos-normativos/edital/ppgdppcl/2026-0009/@@download/documento_historico",
       "fonte": "Edital nº 09/2026 do PPGDPP/UFFS, item 3.2 (inscrição de 01/09 a 15/10/2026), lido em 02/11/2026",
       "esfera": "federal"
+    },
+    {
+      "id": "escola-nacional-de-administracao-publica-enap-mestrado-profissional-em-governanca-e-desenvolvimento-mpgd-1-semestre-de-2",
+      "programa": "Mestrado Profissional em Governança e Desenvolvimento (MPGD)",
+      "area": "politicas-publicas",
+      "instituicao": "Escola Nacional de Administração Pública (Enap)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-09-15",
+      "inscricoesAte": "2026-11-27",
+      "link": "https://www.enap.gov.br/pos-graduacao/mestrado/mestrado-profissional-em-governanca-e-desenvolvimento/",
+      "fonte": "Página oficial do programa de pós-graduação da Enap (enap.gov.br). Achado com Gemini em 03/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "escola-nacional-de-administracao-publica-enap-mestrado-profissional-em-avaliacao-e-monitoramento-de-politicas-publicas-m",
+      "programa": "Mestrado Profissional em Avaliação e Monitoramento de Políticas Públicas (MPAM)",
+      "area": "politicas-publicas",
+      "instituicao": "Escola Nacional de Administração Pública (Enap)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-09-15",
+      "inscricoesAte": "2026-11-27",
+      "link": "https://www.enap.gov.br/pos-graduacao/mestrado/mestrado-profissional-em-avaliacao-e-monitoramento-de-politicas-publicas/",
+      "fonte": "Página oficial do programa de pós-graduação da Enap (enap.gov.br). Achado com Gemini em 03/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-de-brasilia-unb-programa-de-pos-graduacao-em-gestao-ambiental-ppggag-1-semestre-de-2027",
+      "programa": "Programa de Pós-Graduação em Gestão Ambiental (PPGGAG)",
+      "area": "meio-ambiente",
+      "instituicao": "Universidade de Brasília (UnB)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-10-01",
+      "inscricoesAte": "2026-10-25",
+      "link": "https://sigaa.unb.br/sigaa/public/programa/processo_seletivo.jsf?lc=pt_BR&id=932",
+      "fonte": "Portal de Programas de Pós-Graduação do SIGAA da Universidade de Brasília (sigaa.unb.br). Achado com Gemini em 03/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-federal-do-rio-de-janeiro-ufrj-programa-de-pos-graduacao-logica-e-metafisica-ppglm-1-semestre-de-2027",
+      "programa": "Programa de Pós-Graduação Lógica e Metafísica (PPGLM)",
+      "area": "ciencias-sociais",
+      "instituicao": "Universidade Federal do Rio de Janeiro (UFRJ)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-09-08",
+      "inscricoesAte": "2026-11-06",
+      "link": "https://conexao.ufrj.br/2026/10/ronda-da-pos-ufrj-oferece-mais-de-400-vagas-em-pos-graduacao-stricto-sensu-2/",
+      "fonte": "Portal Conexão UFRJ - Ronda da Pós-Graduação Stricto Sensu (conexao.ufrj.br). Achado com Gemini em 03/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-federal-do-rio-de-janeiro-ippur-ufrj-curso-de-especializacao-em-politica-e-planejamento-urbano-1-semestre-d",
+      "programa": "Curso de Especialização em Política e Planejamento Urbano",
+      "area": "politicas-publicas",
+      "instituicao": "Universidade Federal do Rio de Janeiro (IPPUR-UFRJ)",
+      "esfera": "federal",
+      "niveis": [
+        "especializacao"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": null,
+      "inscricoesAte": null,
+      "link": "https://ippur.ufrj.br/processo-seletivo-ppgpur-mestrado-e-doutorado-2027/",
+      "fonte": "Página oficial do Instituto de Pesquisa e Planejamento Urbano e Regional da UFRJ (ippur.ufrj.br). Achado com Gemini em 03/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-federal-de-minas-gerais-ufmg-programa-de-pos-graduacao-em-direito-ppgd-ufmg-1-semestre-de-2027",
+      "programa": "Programa de Pós-Graduação em Direito (PPGD-UFMG)",
+      "area": "direito",
+      "instituicao": "Universidade Federal de Minas Gerais (UFMG)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": null,
+      "inscricoesAte": null,
+      "link": "https://pos.direito.ufmg.br/noticias/editais-bolsas/",
+      "fonte": "Página oficial do Programa de Pós-Graduação em Direito da UFMG (pos.direito.ufmg.br). Achado com Gemini em 03/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
     }
   ]
 }
