@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-03",
+  "conferidoEm": "2026-11-04",
   "selecoes": [
     {
       "id": "ufg-ppgadm-2027",
@@ -601,6 +601,21 @@
       "inscricoesAte": null,
       "link": "https://pos.direito.ufmg.br/noticias/editais-bolsas/",
       "fonte": "Página oficial do Programa de Pós-Graduação em Direito da UFMG (pos.direito.ufmg.br). Achado com Gemini em 03/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-do-estado-do-rio-de-janeiro-iesp-uerj-programa-de-pos-graduacao-em-ciencia-politica-ppgcp-iesp-1-semestre-d",
+      "programa": "Programa de Pós-Graduação em Ciência Política (PPGCP-IESP)",
+      "area": "ciencia-politica",
+      "instituicao": "Universidade do Estado do Rio de Janeiro (IESP-UERJ)",
+      "esfera": "estadual",
+      "niveis": [
+        "doutorado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-10-01",
+      "inscricoesAte": "2026-11-03",
+      "link": "https://iesp.uerj.br/pos-graduacao/selecao/",
+      "fonte": "Portal oficial de editais de seleção de pós-graduação do IESP-UERJ (iesp.uerj.br). Achado com Gemini em 04/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
     }
   ]
 }
