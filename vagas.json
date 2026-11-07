@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-03",
+  "conferidoEm": "2026-11-07",
   "vagas": [
     {
       "id": "oit-organizacao-internacional-do-trabalho-coordenador-a-nacional-de-projetos-national-project-coordinator-noa-2026-10-30",
@@ -675,6 +675,21 @@
       "link": "https://parceiros.undp.org.br/opportunities",
       "fonte": "Portal oficial de oportunidades e editais do PNUD Brasil (parceiros.undp.org.br). Achada com Gemini em 03/11/2026; confira no anúncio",
       "vistaEm": "2026-11-03"
+    },
+    {
+      "id": "vivo-analista-de-importacao-pleno-2026-11-07",
+      "titulo": "Analista de Importação Pleno",
+      "organizacao": "Vivo",
+      "campo": "comercio-exterior",
+      "tipo": "efetivo",
+      "local": "São Paulo, Brasil",
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Atuação em comércio exterior, processos de importação, documentação aduaneira e desembaraço de insumos da área de saúde.",
+      "link": "https://vivo.gupy.io/job/eyJqb2JJZCI6MTI3ODExNzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "Página oficial de carreiras da Vivo no Gupy (vivo.gupy.io). Achada com Gemini em 07/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-07"
     }
   ]
 }
