@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-04",
+  "conferidoEm": "2026-11-10",
   "selecoes": [
     {
       "id": "ufg-ppgadm-2027",
@@ -616,6 +616,21 @@
       "inscricoesAte": "2026-11-03",
       "link": "https://iesp.uerj.br/pos-graduacao/selecao/",
       "fonte": "Portal oficial de editais de seleção de pós-graduação do IESP-UERJ (iesp.uerj.br). Achado com Gemini em 04/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-federal-de-santa-catarina-ufsc-programa-de-pos-graduacao-em-relacoes-internacionais-ppgri-ufsc-1-semestre-d",
+      "programa": "Programa de Pós-Graduação em Relações Internacionais (PPGRI-UFSC)",
+      "area": "ri",
+      "instituicao": "Universidade Federal de Santa Catarina (UFSC)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-10-12",
+      "inscricoesAte": "2026-10-30",
+      "link": "https://ppgri.ufsc.br/selecao-mestrado-2026-entrada-2027-2/",
+      "fonte": "Página oficial do Programa de Pós-Graduação em Relações Internacionais da UFSC (ppgri.ufsc.br). Achado com Gemini em 10/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
     }
   ]
 }

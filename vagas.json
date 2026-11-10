@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-07",
+  "conferidoEm": "2026-11-10",
   "vagas": [
     {
       "id": "oit-organizacao-internacional-do-trabalho-coordenador-a-nacional-de-projetos-national-project-coordinator-noa-2026-10-30",
@@ -690,6 +690,51 @@
       "link": "https://vivo.gupy.io/job/eyJqb2JJZCI6MTI3ODExNzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "fonte": "Página oficial de carreiras da Vivo no Gupy (vivo.gupy.io). Achada com Gemini em 07/11/2026; confira no anúncio",
       "vistaEm": "2026-11-07"
+    },
+    {
+      "id": "teadit-analista-de-comercio-exterior-pl-2026-11-10",
+      "titulo": "ANALISTA DE COMÉRCIO EXTERIOR PL",
+      "organizacao": "Teadit",
+      "campo": "comercio-exterior",
+      "tipo": "efetivo",
+      "local": "Campinas, Brasil",
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Atuação em conferência de despesas de exportação, reservas de embarque marítimo (booking) e certificados de origem.",
+      "link": "https://teadit.gupy.io/job/eyJqb2JJZCI6MTI4Mzk0MDksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "Página oficial de carreiras da Teadit no Gupy (teadit.gupy.io). Achada com Gemini em 10/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-10"
+    },
+    {
+      "id": "craft-analista-senior-exportacao-fcl-eua-2026-11-10",
+      "titulo": "ANALISTA SÊNIOR EXPORTAÇÃO FCL - EUA",
+      "organizacao": "Craft",
+      "campo": "comercio-exterior",
+      "tipo": "efetivo",
+      "local": "São Paulo, Brasil",
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT (modelo híbrido)",
+      "nota": "Coordenação de embarque marítimo FCL e atendimento a rotas de exportação para os Estados Unidos com agentes NVOCC.",
+      "link": "https://craft.gupy.io/job/eyJqb2JJZCI6MTI3ODQ0NjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "Página oficial de carreiras da Craft no Gupy (craft.gupy.io). Achada com Gemini em 10/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-10"
+    },
+    {
+      "id": "yusen-logistics-do-brasil-analista-comercio-exterior-jr-2026-11-10",
+      "titulo": "Analista Comércio Exterior Jr",
+      "organizacao": "Yusen Logistics do Brasil",
+      "campo": "comercio-exterior",
+      "tipo": "efetivo",
+      "local": "São Paulo, Brasil",
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Coordenação do fluxo operacional pós-embarque de importação e conferência de custos e receitas no sistema CargoWise.",
+      "link": "https://yusenlogistics.gupy.io/job/eyJqb2JJZCI6MTI4MDU1MDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "Página oficial de carreiras da Yusen Logistics no Gupy (yusenlogistics.gupy.io). Achada com Gemini em 10/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-10"
     }
   ]
 }
