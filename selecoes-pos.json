@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-10",
+  "conferidoEm": "2026-11-11",
   "selecoes": [
     {
       "id": "ufg-ppgadm-2027",
@@ -262,22 +262,6 @@
       "inscricoesAte": null,
       "link": "https://ppgdireito.ufc.br/wp-content/uploads/2026/07/edital-selecao-turmas-2027-ppgd-ufc-assinado.pdf",
       "fonte": "Edital de seleção das turmas 2027 do PPGD-UFC; as datas de inscrição não foram lidas"
-    },
-    {
-      "id": "ufu-direito-2027",
-      "programa": "Direito (PPGDI)",
-      "area": "direito",
-      "instituicao": "Universidade Federal de Uberlândia (UFU)",
-      "esfera": "federal",
-      "niveis": [
-        "mestrado",
-        "doutorado"
-      ],
-      "ingresso": "1º semestre de 2027",
-      "inscricoesDe": "2026-07-03",
-      "inscricoesAte": "2026-07-13",
-      "link": "https://ppgdi.fadir.ufu.br/sites/ppgdi.fadir.ufu.br/files/media/document/sei_7367226_edital_5.pdf",
-      "fonte": "Edital PPGDI nº 5/2026 da UFU para a turma 2027-1; as datas de inscrição não foram lidas"
     },
     {
       "id": "furg-direito-2027",
