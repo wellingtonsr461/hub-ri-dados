@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-11",
+  "conferidoEm": "2026-11-13",
   "selecoes": [
     {
       "id": "ufg-ppgadm-2027",
@@ -230,22 +230,6 @@
       "inscricoesAte": null,
       "link": "https://www.ufrgs.br/ppge/wp-content/uploads/2026/08/Edital-Doutorado-2027.pdf",
       "fonte": "Edital do doutorado 2027 do PPGE-UFRGS, publicado em agosto de 2026; as datas de inscrição não foram lidas"
-    },
-    {
-      "id": "usp-direito-2027",
-      "programa": "Direito (inclui Direito Internacional e do Comércio Internacional)",
-      "area": "direito",
-      "instituicao": "Universidade de São Paulo (USP), Faculdade de Direito",
-      "esfera": "estadual",
-      "niveis": [
-        "mestrado",
-        "doutorado"
-      ],
-      "ingresso": "2027",
-      "inscricoesDe": "2026-06-05",
-      "inscricoesAte": "2026-07-15",
-      "link": "https://www.fuvest.br/wp-content/uploads/fd2027-edital.pdf",
-      "fonte": "Edital da pós-graduação em Direito da USP 2027 (Fuvest), inscrições de 05/06 a 15/07/2026"
     },
     {
       "id": "ufc-direito-2027",

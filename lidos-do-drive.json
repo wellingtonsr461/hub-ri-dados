@@ -1,6 +1,30 @@
 {
   "lidos": [
     {
+      "id": "19g8SyAIB0guHn-MlKuMiu0QNX_Xs9sb5iBvuyUw-PzQ",
+      "titulo": "HUBRI vagas-todas 2026-11-13",
+      "modificadoEm": "2026-11-13T08:16:55.610Z",
+      "lidoEm": "2026-11-13",
+      "adicionadas": 4,
+      "recusadas": 26
+    },
+    {
+      "id": "1iL4O-vyGYMzQ00UXv2mXAlq2IuNcj8-1gBG5JEycu7s",
+      "titulo": "HUBRI vagas-consultorias 2026-11-13",
+      "modificadoEm": "2026-11-13T08:17:21.379Z",
+      "lidoEm": "2026-11-13",
+      "adicionadas": 0,
+      "recusadas": 4
+    },
+    {
+      "id": "157f07Sbg81NKqr06Rvigv0IPm6cYzipcgM54YDK9id8",
+      "titulo": "HUBRI selecoes-pos 2026-11-13",
+      "modificadoEm": "2026-11-13T08:17:52.389Z",
+      "lidoEm": "2026-11-13",
+      "adicionadas": 0,
+      "recusadas": 8
+    },
+    {
       "id": "1Eg9w0nkmXW9GmNP38dpLan6fdOkU95Jzwhu2fMF4LQQ",
       "titulo": "HUBRI selecoes-pos 2026-11-12",
       "modificadoEm": "2026-11-12T09:03:11.027Z",

@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-10",
+  "conferidoEm": "2026-11-13",
   "vagas": [
     {
       "id": "oit-organizacao-internacional-do-trabalho-coordenador-a-nacional-de-projetos-national-project-coordinator-noa-2026-10-30",
@@ -735,6 +735,66 @@
       "link": "https://yusenlogistics.gupy.io/job/eyJqb2JJZCI6MTI4MDU1MDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "fonte": "Página oficial de carreiras da Yusen Logistics no Gupy (yusenlogistics.gupy.io). Achada com Gemini em 10/11/2026; confira no anúncio",
       "vistaEm": "2026-11-10"
+    },
+    {
+      "id": "grupo-veralana-assistente-de-exportacao-2026-11-13",
+      "titulo": "Assistente de Exportação",
+      "organizacao": "Grupo Veralana",
+      "campo": "comercio-exterior",
+      "tipo": "efetivo",
+      "local": "Campinas, Brasil",
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Atuação em rotinas administrativas de exportação próxima ao Aeroporto de Viracopos para estudantes de Relações Internacionais ou Comércio Exterior.",
+      "link": "https://grupo-veralana.gupy.io/job/eyJqb2JJZCI6MTI4NTcyMTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "Página oficial de carreiras do Grupo Veralana no Gupy (grupo-veralana.gupy.io). Achada com Gemini em 13/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-13"
+    },
+    {
+      "id": "universidade-cruzeiro-do-sul-edital-selecao-de-professores-cruzeiro-do-sul-2027-1-inscricoes-ate-15-11-cadastro-reserva-",
+      "titulo": "EDITAL - SELEÇÃO DE PROFESSORES - CRUZEIRO DO SUL - (2027/1) - Inscrições até 15/11 - Cadastro Reserva",
+      "organizacao": "Universidade Cruzeiro do Sul",
+      "campo": "academia",
+      "tipo": "efetivo",
+      "local": "São Paulo, Brasil",
+      "remoto": false,
+      "prazo": "2026-11-15",
+      "contrato": "Cadastro reserva docente para 2027/1 (exige mestrado e/ou doutorado)",
+      "nota": "Seleção docente para ensino superior com banca didática e exigência de título de mestre ou doutor.",
+      "link": "https://cruzeirodosul.gupy.io/jobs/12813130?jobBoardSource=gupy_public_page",
+      "fonte": "Página oficial de carreiras da Universidade Cruzeiro do Sul no Gupy (cruzeirodosul.gupy.io). Achada com Gemini em 13/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-13"
+    },
+    {
+      "id": "vli-logistica-326836-especialista-inteligencia-comercial-mercado-de-graos-2026-11-13",
+      "titulo": "326836 - ESPECIALISTA INTELIGENCIA COMERCIAL - MERCADO DE GRÃOS",
+      "organizacao": "VLI Logística",
+      "campo": "comercio-exterior",
+      "tipo": "efetivo",
+      "local": "São Paulo, Brasil",
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Análise de cenários econômicos, geopolíticos e corredores de exportação do agronegócio para logística ferroviária e portuária.",
+      "link": "https://vli-vagas-externas.gupy.io/job/eyJqb2JJZCI6MTI4MjYxNTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "Página oficial de carreiras da VLI Logística no Gupy (vli-vagas-externas.gupy.io). Achada com Gemini em 13/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-13"
+    },
+    {
+      "id": "craft-analista-pleno-exportacao-fcl-eua-2026-11-13",
+      "titulo": "ANALISTA PLENO EXPORTAÇÃO FCL - EUA",
+      "organizacao": "Craft",
+      "campo": "comercio-exterior",
+      "tipo": "efetivo",
+      "local": "São Paulo, Brasil",
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Coordenação de embarque marítimo FCL (Full Container Load) para rotas de exportação aos Estados Unidos.",
+      "link": "https://craft.gupy.io/job/eyJqb2JJZCI6MTI3MDczMjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "Página oficial de carreiras da Craft no Gupy (craft.gupy.io). Achada com Gemini em 13/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-13"
     }
   ]
 }
