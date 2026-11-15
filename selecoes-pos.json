@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-13",
+  "conferidoEm": "2026-11-15",
   "selecoes": [
     {
       "id": "ufg-ppgadm-2027",
@@ -599,6 +599,36 @@
       "inscricoesAte": "2026-10-30",
       "link": "https://ppgri.ufsc.br/selecao-mestrado-2026-entrada-2027-2/",
       "fonte": "Página oficial do Programa de Pós-Graduação em Relações Internacionais da UFSC (ppgri.ufsc.br). Achado com Gemini em 10/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-estadual-de-ponta-grossa-uepg-programa-de-pos-graduacao-em-economia-ppgeco-1-semestre-de-2027",
+      "programa": "Programa de Pós-Graduação em Economia (PPGECO)",
+      "area": "economia",
+      "instituicao": "Universidade Estadual de Ponta Grossa (UEPG)",
+      "esfera": "estadual",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-11-11",
+      "inscricoesAte": "2026-12-01",
+      "link": "https://www2.uepg.br/propesp/uepg-abre-selecao-para-o-mestrado-em-economia-com-ingresso-em-2027/",
+      "fonte": "Portal oficial da Pró-Reitoria de Pesquisa e Pós-Graduação da UEPG (www2.uepg.br). Achado com Gemini em 15/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-federal-do-amapa-unifap-programa-de-pos-graduacao-em-direito-ppgd-unifap-1-semestre-de-2027",
+      "programa": "Programa de Pós-Graduação em Direito (PPGD-UNIFAP)",
+      "area": "direito",
+      "instituicao": "Universidade Federal do Amapá (UNIFAP)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-11-03",
+      "inscricoesAte": "2026-11-17",
+      "link": "https://www.unifap.br/mestrado-em-direito-oferta-21-vagas-para-2027/",
+      "fonte": "Portal oficial da Universidade Federal do Amapá (unifap.br). Achado com Gemini em 15/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
     }
   ]
 }

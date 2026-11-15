@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-14",
+  "conferidoEm": "2026-11-15",
   "vagas": [
     {
       "id": "camara-dos-deputados-analista-legislativo-jornalismo-divulgacao-institucional-e-relacoes-publicas-camara-dos-deputados-2",
@@ -870,6 +870,21 @@
       "link": "https://viadeacesso.gupy.io/job/eyJqb2JJZCI6MTI4OTE2OTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "fonte": "Página de vagas da MSC Santos / Instituto Via de Acesso no Gupy (viadeacesso.gupy.io). Achada com Gemini em 14/11/2026; confira no anúncio",
       "vistaEm": "2026-11-14"
+    },
+    {
+      "id": "grupo-veralana-assistente-de-exportacao-2026-11-15",
+      "titulo": "Assistente de Exportação",
+      "organizacao": "Grupo Veralana",
+      "campo": "comercio-exterior",
+      "tipo": "efetivo",
+      "local": "Campinas, Brasil",
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Atuação em rotinas administrativas de exportação próxima ao Aeroporto de Viracopos para estudantes de Relações Internacionais ou Comércio Exterior.",
+      "link": "https://grupo-veralana.gupy.io/job/eyJqb2JJZCI6MTI4NScyMTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "Página oficial de carreiras do Grupo Veralana no Gupy (grupo-veralana.gupy.io). Achada com Gemini em 15/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-15"
     }
   ]
 }
