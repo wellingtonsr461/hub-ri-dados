@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-16",
+  "conferidoEm": "2026-11-17",
   "vagas": [
     {
       "id": "camara-dos-deputados-analista-legislativo-jornalismo-divulgacao-institucional-e-relacoes-publicas-camara-dos-deputados-2",
@@ -239,21 +239,6 @@
       "nota": "Consultoria temática sobre a NR-31, trabalho decente e direitos humanos no setor rural.",
       "link": "https://www.oxfam.org.br/oportunidade/consultoria-seguranca-saude-trabalho-rural/",
       "fonte": "Página oficial de oportunidades da Oxfam Brasil (oxfam.org.br). Achada com Gemini em 01/11/2026; confira no anúncio",
-      "vistaEm": "2026-11-01"
-    },
-    {
-      "id": "plan-international-brasil-educador-a-social-senior-2026-11-02",
-      "titulo": "Educador(a) Social Sênior",
-      "organizacao": "Plan International Brasil",
-      "campo": "analise",
-      "tipo": "efetivo",
-      "local": null,
-      "remoto": false,
-      "prazo": "2026-11-02",
-      "contrato": "Contrato em regime CLT",
-      "nota": "Posição sênior para articulação de redes, facilitação e representação institucional em direitos de meninas e crianças.",
-      "link": "https://plan.org.br/vagas/",
-      "fonte": "Página oficial de vagas da Plan International Brasil (plan.org.br). Achada com Gemini em 01/11/2026; confira no anúncio",
       "vistaEm": "2026-11-01"
     },
     {
@@ -870,6 +855,96 @@
       "link": "https://sejaelgin.gupy.io/job/eyJqb2JJZCI6MTI8NzQ0MDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "fonte": "Página oficial de carreiras da Elgin no Gupy (sejaelgin.gupy.io). Achada com Gemini em 16/11/2026; confira no anúncio",
       "vistaEm": "2026-11-16"
+    },
+    {
+      "id": "wilson-sons-887-gerente-de-rebocadores-sao-luis-ma-2026-11-17",
+      "titulo": "887 - Gerente de Rebocadores | São Luís (MA)",
+      "organizacao": "Wilson Sons",
+      "campo": "comercio-exterior",
+      "tipo": "efetivo",
+      "local": "São Luís, Brasil",
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Gestão de operações portuárias e marítimas para graduados em Comércio Exterior, Relações Internacionais, Economia ou áreas correlatas, com inglês avançado.",
+      "link": "https://wilsonsons.gupy.io/jobs/12892485?jobBoardSource=gupy_public_page",
+      "fonte": "Página oficial de carreiras da Wilson Sons no Gupy (wilsonsons.gupy.io). Achada com Gemini em 17/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-17"
+    },
+    {
+      "id": "engie-brasil-compradora-ou-comprador-i-florianopolis-sc-2026-11-17",
+      "titulo": "Compradora ou Comprador I - Florianópolis/SC",
+      "organizacao": "ENGIE Brasil",
+      "campo": "comercio-exterior",
+      "tipo": "efetivo",
+      "local": "Florianópolis, Brasil",
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Processos de compras estratégicas e gestão de contratos com fornecedores nacionais e internacionais para graduados em Comércio Exterior ou áreas afins.",
+      "link": "https://engiebrasilenergia.gupy.io/job/eyJqb2JJZCI6MTI5MDA3MzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "Página oficial de carreiras da ENGIE Brasil no Gupy (engiebrasilenergia.gupy.io). Achada com Gemini em 17/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-17"
+    },
+    {
+      "id": "essentia-group-analista-de-comercio-exterior-2026-11-17",
+      "titulo": "Analista de Comércio Exterior",
+      "organizacao": "Essentia Group",
+      "campo": "comercio-exterior",
+      "tipo": "efetivo",
+      "local": null,
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Atuação na área de comércio exterior no Essentia Group.",
+      "link": "https://essentiagroup.gupy.io/job/eyJqb2JJZCI6MTI4MzQ3NzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "Página oficial de carreiras do Essentia Group no Gupy (essentiagroup.gupy.io). Achada com Gemini em 17/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-17"
+    },
+    {
+      "id": "bruning-analista-de-importacao-e-exportacao-2026-11-17",
+      "titulo": "Analista de Importação e Exportação",
+      "organizacao": "Bruning",
+      "campo": "comercio-exterior",
+      "tipo": "efetivo",
+      "local": null,
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Atuação em rotinas de importação e exportação.",
+      "link": "https://bruning.gupy.io/job/eyJqb2JJZCI6MTI4NTYzNjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "Página oficial de carreiras da Bruning no Gupy (bruning.gupy.io). Achada com Gemini em 17/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-17"
+    },
+    {
+      "id": "alpargatas-analista-global-relacoes-governamentais-e-institucionais-sr-2026-11-17",
+      "titulo": "Analista Global Relações Governamentais e Institucionais Sr",
+      "organizacao": "Alpargatas",
+      "campo": "analise",
+      "tipo": "efetivo",
+      "local": null,
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Apoio a estratégias de advocacy, análise regulatória e de políticas públicas, e relacionamento com órgãos governamentais e legislativos.",
+      "link": "https://alpargatas.gupy.io/jobs/12809235?jobBoardSource=gupy_public_page",
+      "fonte": "Página oficial de carreiras da Alpargatas no Gupy (alpargatas.gupy.io). Achada com Gemini em 17/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-17"
+    },
+    {
+      "id": "aegea-supervisor-de-responsabilidade-social-pcd-2026-11-17",
+      "titulo": "SUPERVISOR DE RESPONSABILIDADE SOCIAL PCD",
+      "organizacao": "Aegea",
+      "campo": "organismos",
+      "tipo": "efetivo",
+      "local": null,
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT (vaga afirmativa PCD)",
+      "nota": "Liderança da equipe de Responsabilidade Social e Relações Institucionais em interlocução com poder público e ONGs.",
+      "link": "https://aegea.gupy.io/jobs/12859923?jobBoardSource=gupy_public_page",
+      "fonte": "Página oficial de carreiras da Aegea no Gupy (aegea.gupy.io). Achada com Gemini em 17/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-17"
     }
   ]
 }
