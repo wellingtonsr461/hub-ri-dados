@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-17",
+  "conferidoEm": "2026-11-18",
   "vagas": [
     {
       "id": "camara-dos-deputados-analista-legislativo-jornalismo-divulgacao-institucional-e-relacoes-publicas-camara-dos-deputados-2",
@@ -148,21 +148,6 @@
       "contrato": "Affiliate Personnel – Consultants/Individual Contractors, CON",
       "nota": "Consultoria técnica individual para coordenação de programas e cooperação técnica no escritório regional do UN-Habitat.",
       "link": "https://careers.un.org/jobSearchDescription/287383",
-      "fonte": "Portal oficial de carreiras das Nações Unidas (careers.un.org). Achada com Gemini em 01/11/2026; confira no anúncio",
-      "vistaEm": "2026-11-01"
-    },
-    {
-      "id": "un-habitat-field-agent-2026-11-03",
-      "titulo": "Field Agent",
-      "organizacao": "UN-Habitat",
-      "campo": "organismos",
-      "tipo": "consultoria",
-      "local": "Rio de Janeiro, Brasil",
-      "remoto": false,
-      "prazo": "2026-11-03",
-      "contrato": "Affiliate Personnel – Consultants/Individual Contractors, CON",
-      "nota": "Agente de campo para acompanhamento de intervenções de desenvolvimento urbano e engajamento comunitário.",
-      "link": "https://careers.un.org/jobSearchDescription/287295?language=en",
       "fonte": "Portal oficial de carreiras das Nações Unidas (careers.un.org). Achada com Gemini em 01/11/2026; confira no anúncio",
       "vistaEm": "2026-11-01"
     },
@@ -945,6 +930,96 @@
       "link": "https://aegea.gupy.io/jobs/12859923?jobBoardSource=gupy_public_page",
       "fonte": "Página oficial de carreiras da Aegea no Gupy (aegea.gupy.io). Achada com Gemini em 17/11/2026; confira no anúncio",
       "vistaEm": "2026-11-17"
+    },
+    {
+      "id": "pucpr-analista-de-contratos-internacionais-pl-exclusiva-pcd-2026-11-18",
+      "titulo": "Analista de Contratos Internacionais Pl. - Exclusiva PCD",
+      "organizacao": "PUCPR",
+      "campo": "academia",
+      "tipo": "efetivo",
+      "local": "Curitiba, Brasil",
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT (vaga exclusiva PCD)",
+      "nota": "Gestão e tradução de acordos de cooperação internacional acadêmica para graduados em Relações Internacionais, Direito, Comércio Exterior ou áreas correlatas.",
+      "link": "https://pucpr.gupy.io/job/eyJqb2JJZCI6MTI5MDUxNjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "Página oficial de carreiras da PUCPR no Gupy (pucpr.gupy.io). Achada com Gemini em 18/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-18"
+    },
+    {
+      "id": "puc-sp-edital-de-selecao-de-professores-as-area-de-relacoes-internacionais-vagas-afirmativas-para-negros-as-pretos-as-e-",
+      "titulo": "EDITAL DE SELEÇÃO DE PROFESSORES (AS) - ÁREA DE RELAÇÕES INTERNACIONAIS - Vagas Afirmativas para Negros/as- Pretos/as e Pardos/as",
+      "organizacao": "PUC-SP",
+      "campo": "academia",
+      "tipo": "efetivo",
+      "local": "São Paulo, Brasil",
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato de docente (vaga afirmativa para pessoas negras)",
+      "nota": "Edital de seleção de docentes para a área de Relações Internacionais na PUC-SP.",
+      "link": "https://pucsp.gupy.io/jobs/12848449?jobBoardSource=gupy_public_page",
+      "fonte": "Página oficial de carreiras da PUC-SP no Gupy (pucsp.gupy.io). Achada com Gemini em 18/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-18"
+    },
+    {
+      "id": "fundacao-itau-coordenador-a-de-relacoes-institucionais-2026-11-18",
+      "titulo": "Coordenador (a) de Relações Institucionais",
+      "organizacao": "Fundação Itaú",
+      "campo": "organismos",
+      "tipo": "efetivo",
+      "local": "São Paulo, Brasil",
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Coordenação de relações institucionais e parcerias estratégicas na Fundação Itaú.",
+      "link": "https://fundacaoitau.gupy.io/jobs/12785140?jobBoardSource=gupy_public_page",
+      "fonte": "Página oficial de carreiras da Fundação Itaú no Gupy (fundacaoitau.gupy.io). Achada com Gemini em 18/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-18"
+    },
+    {
+      "id": "kordsa-estagio-em-comercio-exterior-2026-11-18",
+      "titulo": "Estágio em Comércio Exterior",
+      "organizacao": "Kordsa",
+      "campo": "comercio-exterior",
+      "tipo": "estagio",
+      "local": null,
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato de estágio",
+      "nota": "Estágio em comércio exterior, cotações com fornecedores e acompanhamento de importações para estudantes de RI ou Comércio Exterior.",
+      "link": "https://kordsa.gupy.io/jobs/12714072?jobBoardSource=gupy_public_page",
+      "fonte": "Página oficial de carreiras da Kordsa no Gupy (kordsa.gupy.io). Achada com Gemini em 18/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-18"
+    },
+    {
+      "id": "igc-estagiario-comercial-exportacao-filial-sao-paulo-2026-11-18",
+      "titulo": "Estagiário Comercial Exportação (Filial São Paulo)",
+      "organizacao": "IGC",
+      "campo": "comercio-exterior",
+      "tipo": "estagio",
+      "local": "São Paulo, Brasil",
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato de estágio (modelo híbrido)",
+      "nota": "Estágio na área comercial de exportação de café solúvel para estudantes de Relações Internacionais, Comércio Exterior ou Economia.",
+      "link": "https://igc.gupy.io/jobs/12627598?jobBoardSource=gupy_public_page",
+      "fonte": "Página oficial de carreiras da IGC no Gupy (igc.gupy.io). Achada com Gemini em 18/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-18"
+    },
+    {
+      "id": "nidec-estagio-em-global-logistics-improvement-2026-11-18",
+      "titulo": "Estágio em Global Logistics Improvement",
+      "organizacao": "Nidec",
+      "campo": "comercio-exterior",
+      "tipo": "estagio",
+      "local": null,
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato de estágio presencial",
+      "nota": "Apoio a projetos de melhoria em logística internacional, análise de dados e indicadores globais para estudantes de Comércio Exterior ou Logística.",
+      "link": "https://nidecga-br.gupy.io/job/eyJqb2JJZCI6MTI4MDAzMzgsInNvdXJjZSI6InRhbGVudCJ9?jobBoardSource=talent",
+      "fonte": "Página oficial de carreiras da Nidec no Gupy (nidecga-br.gupy.io). Achada com Gemini em 18/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-18"
     }
   ]
 }
