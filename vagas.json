@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-18",
+  "conferidoEm": "2026-11-19",
   "vagas": [
     {
       "id": "camara-dos-deputados-analista-legislativo-jornalismo-divulgacao-institucional-e-relacoes-publicas-camara-dos-deputados-2",
@@ -152,21 +152,6 @@
       "vistaEm": "2026-11-01"
     },
     {
-      "id": "un-habitat-technical-assistant-2026-11-04",
-      "titulo": "Technical Assistant",
-      "organizacao": "UN-Habitat",
-      "campo": "organismos",
-      "tipo": "consultoria",
-      "local": "Rio de Janeiro, Brasil",
-      "remoto": false,
-      "prazo": "2026-11-04",
-      "contrato": "Affiliate Personnel – Consultants/Individual Contractors, CON",
-      "nota": "Assistente técnico para suporte à implementação e documentação de projetos de cooperação urbana.",
-      "link": "https://careers.un.org/jobSearchDescription/287347",
-      "fonte": "Portal oficial de carreiras das Nações Unidas (careers.un.org). Achada com Gemini em 01/11/2026; confira no anúncio",
-      "vistaEm": "2026-11-01"
-    },
-    {
       "id": "un-habitat-programme-management-officer-human-settlements-p4-2026-12-02",
       "titulo": "Programme Management Officer, Human Settlements, P4",
       "organizacao": "UN-Habitat",
@@ -299,21 +284,6 @@
       "nota": "Concurso público para Analista Legislativo sob organização do Cebraspe para assessoramento de políticas e técnica legislativa.",
       "link": "https://www.cebraspe.org.br/concursos/cd_26_analista",
       "fonte": "Página oficial do concurso público no portal do Cebraspe (cebraspe.org.br). Achada com Gemini em 01/11/2026; confira no anúncio",
-      "vistaEm": "2026-11-01"
-    },
-    {
-      "id": "controladoria-geral-da-uniao-cgu-auditor-federal-de-financas-e-controle-affc-2026-11-04",
-      "titulo": "Auditor Federal de Finanças e Controle (AFFC)",
-      "organizacao": "Controladoria-Geral da União (CGU)",
-      "campo": "analise",
-      "tipo": "concurso",
-      "local": "Brasília, Brasil",
-      "remoto": false,
-      "prazo": "2026-11-04",
-      "contrato": "Cargo público efetivo estatutário (remuneração inicial de R$ 20.000,00)",
-      "nota": "Concurso público organizado pelo Cebraspe para auditoria, controle interno, transparência e acordos internacionais anticorrupção.",
-      "link": "https://www.cebraspe.org.br/concursos/cgu_26_affc",
-      "fonte": "Página oficial do concurso público da CGU no portal do Cebraspe (cebraspe.org.br). Achada com Gemini em 01/11/2026; confira no anúncio",
       "vistaEm": "2026-11-01"
     },
     {
@@ -1020,6 +990,36 @@
       "link": "https://nidecga-br.gupy.io/job/eyJqb2JJZCI6MTI4MDAzMzgsInNvdXJjZSI6InRhbGVudCJ9?jobBoardSource=talent",
       "fonte": "Página oficial de carreiras da Nidec no Gupy (nidecga-br.gupy.io). Achada com Gemini em 18/11/2026; confira no anúncio",
       "vistaEm": "2026-11-18"
+    },
+    {
+      "id": "aegea-saneamento-analista-de-projetos-sociais-2026-11-19",
+      "titulo": "ANALISTA DE PROJETOS SOCIAIS",
+      "organizacao": "Aegea Saneamento",
+      "campo": "organismos",
+      "tipo": "efetivo",
+      "local": null,
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Execução de projetos socioambientais e relacionamento com lideranças comunitárias.",
+      "link": "https://aegea.gupy.io/jobs/12496121?jobBoardSource=gupy_public_page",
+      "fonte": "Página oficial de carreiras da Aegea Saneamento no Gupy (aegea.gupy.io). Achada com Gemini em 19/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-19"
+    },
+    {
+      "id": "spdm-pais-gestor-ambiental-i-ubs-2026-11-19",
+      "titulo": "GESTOR AMBIENTAL I - UBS",
+      "organizacao": "SPDM/PAIS",
+      "campo": "organismos",
+      "tipo": "efetivo",
+      "local": "São Paulo, Brasil",
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Gestão de projetos socioambientais em Unidades Básicas de Saúde e diagnóstico ambiental territorial.",
+      "link": "https://spdmpais.gupy.io/jobs/12846472?jobBoardSource=gupy_public_page",
+      "fonte": "Página oficial de carreiras da SPDM/PAIS no Gupy (spdmpais.gupy.io). Achada com Gemini em 19/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-19"
     }
   ]
 }
