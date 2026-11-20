@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-19",
+  "conferidoEm": "2026-11-20",
   "vagas": [
     {
       "id": "camara-dos-deputados-analista-legislativo-jornalismo-divulgacao-institucional-e-relacoes-publicas-camara-dos-deputados-2",
@@ -77,51 +77,6 @@
       "vistaEm": "2026-11-01"
     },
     {
-      "id": "unops-ict-senior-analyst-ict-project-management-quality-assurance-2026-11-05",
-      "titulo": "ICT Senior Analyst - ICT Project Management - Quality Assurance",
-      "organizacao": "UNOPS",
-      "campo": "seguranca",
-      "tipo": "consultoria",
-      "local": "Brasília, Brasil",
-      "remoto": false,
-      "prazo": "2026-11-05",
-      "contrato": "12 meses com possibilidade de prorrogação (ICA - LICA - Specialist - Retainer, nível LICA 9)",
-      "nota": "LICA-9 é a modalidade Local Individual Contractor Agreement para atuação em garantia de qualidade no projeto S2ID da Defesa Civil.",
-      "link": "https://careers.unops.org/careersmarketplace/JobDetail/ICT-Senior-Analyst-ICT-Project-Management-Quality-Assurance/4875",
-      "fonte": "Página oficial de carreiras do UNOPS (careers.unops.org). Achada com Gemini em 01/11/2026; confira no anúncio",
-      "vistaEm": "2026-11-01"
-    },
-    {
-      "id": "unops-ict-senior-analyst-ict-project-management-analise-de-requisitos-2026-11-05",
-      "titulo": "ICT Senior Analyst - ICT Project Management - Análise de Requisitos",
-      "organizacao": "UNOPS",
-      "campo": "seguranca",
-      "tipo": "consultoria",
-      "local": "Brasília, Brasil",
-      "remoto": false,
-      "prazo": "2026-11-05",
-      "contrato": "12 meses com possibilidade de prorrogação (ICA - LICA - Specialist - Retainer, nível LICA 9)",
-      "nota": "Posição LICA-9 para análise de requisitos funcionais e mapeamento de processos de desastres junto à Defesa Civil Nacional.",
-      "link": "https://careers.unops.org/careersmarketplace/JobDetail/ICT-Senior-Analyst-ICT-Project-Management-An-lise-de-Requisitos/4868",
-      "fonte": "Página oficial de carreiras do UNOPS (careers.unops.org). Achada com Gemini em 01/11/2026; confira no anúncio",
-      "vistaEm": "2026-11-01"
-    },
-    {
-      "id": "unops-ict-senior-analyst-ict-project-management-user-experience-ux-2026-11-05",
-      "titulo": "ICT Senior Analyst - ICT Project Management - User Experience (UX)",
-      "organizacao": "UNOPS",
-      "campo": "seguranca",
-      "tipo": "consultoria",
-      "local": "Brasília, Brasil",
-      "remoto": false,
-      "prazo": "2026-11-05",
-      "contrato": "12 meses com possibilidade de prorrogação (ICA - LICA - Specialist - Retainer, nível LICA 9)",
-      "nota": "Consultoria em UX para modernização do Sistema Integrado de Informações sobre Desastres (S2ID 4.0) da SEDEC.",
-      "link": "https://careers.unops.org/careersmarketplace/JobDetail/ICT-Senior-Analyst-ICT-Project-Management-User-Experience-UX/4874",
-      "fonte": "Página oficial de carreiras do UNOPS (careers.unops.org). Achada com Gemini em 01/11/2026; confira no anúncio",
-      "vistaEm": "2026-11-01"
-    },
-    {
       "id": "un-habitat-urban-policy-and-implementation-specialist-2026-11-06",
       "titulo": "Urban Policy and Implementation Specialist",
       "organizacao": "UN-Habitat",
@@ -133,21 +88,6 @@
       "contrato": "Affiliate Personnel – Consultants/Individual Contractors, CON",
       "nota": "CON designa contratação de consultor individual para atuação no Programa de Políticas Urbanas Nacionais e cooperação regional.",
       "link": "https://careers.un.org/jobSearchDescription/287297",
-      "fonte": "Portal oficial de carreiras das Nações Unidas (careers.un.org). Achada com Gemini em 01/11/2026; confira no anúncio",
-      "vistaEm": "2026-11-01"
-    },
-    {
-      "id": "un-habitat-programme-coordinator-2026-11-05",
-      "titulo": "Programme Coordinator",
-      "organizacao": "UN-Habitat",
-      "campo": "organismos",
-      "tipo": "consultoria",
-      "local": "Rio de Janeiro, Brasil",
-      "remoto": false,
-      "prazo": "2026-11-05",
-      "contrato": "Affiliate Personnel – Consultants/Individual Contractors, CON",
-      "nota": "Consultoria técnica individual para coordenação de programas e cooperação técnica no escritório regional do UN-Habitat.",
-      "link": "https://careers.un.org/jobSearchDescription/287383",
       "fonte": "Portal oficial de carreiras das Nações Unidas (careers.un.org). Achada com Gemini em 01/11/2026; confira no anúncio",
       "vistaEm": "2026-11-01"
     },
@@ -1020,6 +960,51 @@
       "link": "https://spdmpais.gupy.io/jobs/12846472?jobBoardSource=gupy_public_page",
       "fonte": "Página oficial de carreiras da SPDM/PAIS no Gupy (spdmpais.gupy.io). Achada com Gemini em 19/11/2026; confira no anúncio",
       "vistaEm": "2026-11-19"
+    },
+    {
+      "id": "azul-linhas-aereas-analista-comercio-exterior-jr-matriz-2026-11-20",
+      "titulo": "ANALISTA COMERCIO EXTERIOR JR - MATRIZ",
+      "organizacao": "Azul Linhas Aéreas",
+      "campo": "comercio-exterior",
+      "tipo": "efetivo",
+      "local": "Barueri, Brasil",
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Suporte às operações de importação e exportação e processos aduaneiros para graduados ou estudantes de Comércio Exterior ou Relações Internacionais.",
+      "link": "https://voeazul.gupy.io/jobs/12623607?jobBoardSource=gupy_public_page",
+      "fonte": "Página oficial de carreiras da Azul Linhas Aéreas no Gupy (voeazul.gupy.io). Achada com Gemini em 20/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-20"
+    },
+    {
+      "id": "raizen-analista-de-sustentabilidade-i-2026-11-20",
+      "titulo": "Analista de Sustentabilidade I",
+      "organizacao": "Raízen",
+      "campo": "analise",
+      "tipo": "efetivo",
+      "local": "São Paulo, Brasil",
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Elaboração de Relato Integrado (GRI e SASB), dupla materialidade e índices ESG (CSA/S&P Global) para graduados em Economia, Administração ou áreas correlatas.",
+      "link": "https://genteraizen.gupy.io/job/eyJqb2JJZCI6MTI4MzU4MTcsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
+      "fonte": "Página oficial de carreiras da Raízen no Gupy (genteraizen.gupy.io). Achada com Gemini em 20/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-20"
+    },
+    {
+      "id": "jsl-analista-de-sustentabilidade-pl-2026-11-20",
+      "titulo": "ANALISTA DE SUSTENTABILIDADE PL",
+      "organizacao": "JSL",
+      "campo": "analise",
+      "tipo": "efetivo",
+      "local": null,
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Atuação em sustentabilidade corporativa e indicadores ESG na JSL.",
+      "link": "https://jsl.gupy.io/jobs/12878078?jobBoardSource=gupy_public_page",
+      "fonte": "Página oficial de carreiras da JSL no Gupy (jsl.gupy.io). Achada com Gemini em 20/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-20"
     }
   ]
 }
