@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-20",
+  "conferidoEm": "2026-11-21",
   "vagas": [
     {
       "id": "camara-dos-deputados-analista-legislativo-jornalismo-divulgacao-institucional-e-relacoes-publicas-camara-dos-deputados-2",
@@ -77,21 +77,6 @@
       "vistaEm": "2026-11-01"
     },
     {
-      "id": "un-habitat-urban-policy-and-implementation-specialist-2026-11-06",
-      "titulo": "Urban Policy and Implementation Specialist",
-      "organizacao": "UN-Habitat",
-      "campo": "organismos",
-      "tipo": "consultoria",
-      "local": "Rio de Janeiro, Brasil",
-      "remoto": false,
-      "prazo": "2026-11-06",
-      "contrato": "Affiliate Personnel – Consultants/Individual Contractors, CON",
-      "nota": "CON designa contratação de consultor individual para atuação no Programa de Políticas Urbanas Nacionais e cooperação regional.",
-      "link": "https://careers.un.org/jobSearchDescription/287297",
-      "fonte": "Portal oficial de carreiras das Nações Unidas (careers.un.org). Achada com Gemini em 01/11/2026; confira no anúncio",
-      "vistaEm": "2026-11-01"
-    },
-    {
       "id": "un-habitat-programme-management-officer-human-settlements-p4-2026-12-02",
       "titulo": "Programme Management Officer, Human Settlements, P4",
       "organizacao": "UN-Habitat",
@@ -134,21 +119,6 @@
       "nota": "G-7 é o nível mais avançado da carreira de Serviços Gerais das Nações Unidas.",
       "link": "https://careers.un.org/jobSearchDescription/284802",
       "fonte": "Portal oficial de carreiras das Nações Unidas (careers.un.org). Achada com Gemini em 01/11/2026; confira no anúncio",
-      "vistaEm": "2026-11-01"
-    },
-    {
-      "id": "oxfam-brasil-consultoria-especializada-em-seguranca-e-saude-no-trabalho-rural-2026-11-06",
-      "titulo": "Consultoria Especializada em Segurança e Saúde no Trabalho Rural",
-      "organizacao": "Oxfam Brasil",
-      "campo": "analise",
-      "tipo": "consultoria",
-      "local": null,
-      "remoto": true,
-      "prazo": "2026-11-06",
-      "contrato": "Contrato de Prestação de Serviços ou Acordo de Cooperação Técnica (09/11 a 30/11/2026)",
-      "nota": "Consultoria temática sobre a NR-31, trabalho decente e direitos humanos no setor rural.",
-      "link": "https://www.oxfam.org.br/oportunidade/consultoria-seguranca-saude-trabalho-rural/",
-      "fonte": "Página oficial de oportunidades da Oxfam Brasil (oxfam.org.br). Achada com Gemini em 01/11/2026; confira no anúncio",
       "vistaEm": "2026-11-01"
     },
     {
@@ -1005,6 +975,51 @@
       "link": "https://jsl.gupy.io/jobs/12878078?jobBoardSource=gupy_public_page",
       "fonte": "Página oficial de carreiras da JSL no Gupy (jsl.gupy.io). Achada com Gemini em 20/11/2026; confira no anúncio",
       "vistaEm": "2026-11-20"
+    },
+    {
+      "id": "engie-brasil-compradora-ou-comprador-i-florianopolis-sc-2026-11-21",
+      "titulo": "Compradora ou Comprador I - Florianópolis/SC",
+      "organizacao": "ENGIE Brasil",
+      "campo": "comercio-exterior",
+      "tipo": "efetivo",
+      "local": "Florianópolis, Brasil",
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Processos de compras estratégicas e gestão de contratos com fornecedores nacionais e internacionais para graduados em Comércio Exterior ou áreas afins.",
+      "link": "https://engiebrasilenergia.gupy.io/job/eyJqb2JJZCI6MTI5MDU3MzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "Página oficial de carreiras da ENGIE Brasil no Gupy (engiebrasilenergia.gupy.io). Achada com Gemini em 21/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-21"
+    },
+    {
+      "id": "asia-shipping-analista-de-desembaraco-aduaneiro-jr-importacao-2026-11-21",
+      "titulo": "ANALISTA DE DESEMBARAÇO ADUANEIRO JR - IMPORTAÇÃO",
+      "organizacao": "Asia Shipping",
+      "campo": "comercio-exterior",
+      "tipo": "efetivo",
+      "local": null,
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Conferência de documentação de despacho aduaneiro e acompanhamento de embarques aéreos, marítimos e rodoviários.",
+      "link": "https://asiashipping.gupy.io/job/eyJqb2JJZCI6MTI4Nzg1MzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "Página oficial de carreiras da Asia Shipping no Gupy (asiashipping.gupy.io). Achada com Gemini em 21/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-21"
+    },
+    {
+      "id": "asia-shipping-assistente-de-desembaraco-aduaneiro-importacao-2026-11-21",
+      "titulo": "ASSISTENTE DE DESEMBARAÇO ADUANEIRO IMPORTAÇÃO",
+      "organizacao": "Asia Shipping",
+      "campo": "comercio-exterior",
+      "tipo": "efetivo",
+      "local": null,
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Suporte à liberação de mercadoria importada, classificação fiscal NCM, licenças de importação (LI) e registro no Siscomex.",
+      "link": "https://asiashipping.gupy.io/job/eyJqb2JJZCI6MTI4NzcyNDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "Página oficial de carreiras da Asia Shipping no Gupy (asiashipping.gupy.io). Achada com Gemini em 21/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-21"
     }
   ]
 }
