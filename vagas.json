@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-21",
+  "conferidoEm": "2026-11-22",
   "vagas": [
     {
       "id": "camara-dos-deputados-analista-legislativo-jornalismo-divulgacao-institucional-e-relacoes-publicas-camara-dos-deputados-2",
@@ -92,21 +92,6 @@
       "vistaEm": "2026-11-01"
     },
     {
-      "id": "pnuma-ccac-technical-consultant-financing-strategy-for-the-brazil-clean-air-and-climate-action-plan-2026-11-07",
-      "titulo": "CCAC Technical Consultant – Financing Strategy for the Brazil Clean Air and Climate Action Plan",
-      "organizacao": "PNUMA",
-      "campo": "analise",
-      "tipo": "consultoria",
-      "local": "Brasília, Brasil",
-      "remoto": true,
-      "prazo": "2026-11-07",
-      "contrato": "Affiliate Personnel – Consultants/Individual Contractors, CON",
-      "nota": "CCAC refere-se à Climate and Clean Air Coalition; consultoria analítica para estratégia de financiamento climático junto ao MMA.",
-      "link": "https://careers.un.org/jobSearchDescription/287118",
-      "fonte": "Portal oficial de carreiras das Nações Unidas (careers.un.org). Achada com Gemini em 01/11/2026; confira no anúncio",
-      "vistaEm": "2026-11-01"
-    },
-    {
       "id": "pnuma-senior-programme-management-assistant-g7-2026-11-10",
       "titulo": "Senior Programme Management Assistant, G7",
       "organizacao": "PNUMA",
@@ -134,36 +119,6 @@
       "nota": "Edital para consultoria especializada em narrativa audiovisual e comunicação socioambiental.",
       "link": "https://www.wwf.org.br/sobrenos/aquisicoesecontratacoes/",
       "fonte": "Página oficial de aquisições e contratações do WWF-Brasil (wwf.org.br). Achada com Gemini em 01/11/2026; confira no anúncio",
-      "vistaEm": "2026-11-01"
-    },
-    {
-      "id": "instituto-socioambiental-isa-tdr-consultoria-diagramacao-de-planos-de-visitacao-e-negocios-da-bela-adormecida-2026-11-07",
-      "titulo": "TDR- CONSULTORIA - Diagramação de Planos de Visitação e Negócios da Bela Adormecida",
-      "organizacao": "Instituto Socioambiental (ISA)",
-      "campo": "organismos",
-      "tipo": "consultoria",
-      "local": "São Gabriel da Cachoeira, Brasil",
-      "remoto": true,
-      "prazo": "2026-11-07",
-      "contrato": "Contrato de consultoria por produto",
-      "nota": "TDR é Termo de Referência; consultoria técnica para diagramação de planos de visitação comunitária indígena.",
-      "link": "https://www.socioambiental.org/o-isa/vagas-editais/tdr-consultoria-diagramacao-de-planos-de-visitacao-e-negocios-da-bela",
-      "fonte": "Página oficial de vagas e editais do Instituto Socioambiental (socioambiental.org). Achada com Gemini em 01/11/2026; confira no anúncio",
-      "vistaEm": "2026-11-01"
-    },
-    {
-      "id": "instituto-socioambiental-isa-tdr-consultoria-atualizacao-do-plano-financeiro-e-do-planejamento-financeiro-da-casa-wariro",
-      "titulo": "TDR- CONSULTORIA - Atualização do Plano Financeiro e do Planejamento Financeiro da Casa Wariró",
-      "organizacao": "Instituto Socioambiental (ISA)",
-      "campo": "organismos",
-      "tipo": "consultoria",
-      "local": "São Gabriel da Cachoeira, Brasil",
-      "remoto": true,
-      "prazo": "2026-11-07",
-      "contrato": "Contrato de consultoria por produto",
-      "nota": "Consultoria para modelagem e sustentabilidade financeira de iniciativas da economia da sociobiodiversidade.",
-      "link": "https://www.socioambiental.org/vagas-e-editais",
-      "fonte": "Página oficial de vagas e editais do Instituto Socioambiental (socioambiental.org). Achada com Gemini em 01/11/2026; confira no anúncio",
       "vistaEm": "2026-11-01"
     },
     {
@@ -1020,6 +975,51 @@
       "link": "https://asiashipping.gupy.io/job/eyJqb2JJZCI6MTI4NzcyNDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "fonte": "Página oficial de carreiras da Asia Shipping no Gupy (asiashipping.gupy.io). Achada com Gemini em 21/11/2026; confira no anúncio",
       "vistaEm": "2026-11-21"
+    },
+    {
+      "id": "grupo-moura-estagio-em-relacoes-internacionais-adm-2026-11-22",
+      "titulo": "Estágio em Relações Internacionais/ADM",
+      "organizacao": "Grupo Moura",
+      "campo": "comercio-exterior",
+      "tipo": "estagio",
+      "local": "Belo Jardim, Brasil",
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato de estágio (6 horas/dia)",
+      "nota": "Suporte a processos de procurement e aquisições no ERP/SAP Ariba para estudantes de Relações Internacionais, Comércio Exterior, Economia ou Administração.",
+      "link": "https://grupomoura.gupy.io/job/eyJqb2JJZCI6MTI2MDYyMDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "Página oficial de carreiras do Grupo Moura no Gupy (grupomoura.gupy.io). Achada com Gemini em 22/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-22"
+    },
+    {
+      "id": "eldorado-brasil-supervisor-a-importacao-e-exportacao-diretoria-comercial-logistica-santos-sp-2026-11-22",
+      "titulo": "Supervisor(a) Importação e Exportação - Diretoria Comercial Logística - Santos/SP",
+      "organizacao": "Eldorado Brasil",
+      "campo": "comercio-exterior",
+      "tipo": "efetivo",
+      "local": "Santos, Brasil",
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT",
+      "nota": "Supervisão de operações portuárias de exportação e importação, parametrização aduaneira (canal vermelho) e Siscomex/Portal Único.",
+      "link": "https://vagaseldoradobrasil.gupy.io/jobs/12880758",
+      "fonte": "Página oficial de carreiras da Eldorado Brasil no Gupy (vagaseldoradobrasil.gupy.io). Achada com Gemini em 22/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-22"
+    },
+    {
+      "id": "midea-carrier-estagio-em-logistica-internacional-2026-11-22",
+      "titulo": "Estágio em Logística Internacional",
+      "organizacao": "Midea Carrier",
+      "campo": "comercio-exterior",
+      "tipo": "estagio",
+      "local": null,
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato de estágio",
+      "nota": "Estágio na área de logística internacional na Midea Carrier.",
+      "link": "https://mideacarrier.gupy.io/job/eyJqb2JJZCI6MTI4NjQ5NzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "Página oficial de carreiras da Midea Carrier no Gupy (mideacarrier.gupy.io). Achada com Gemini em 22/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-22"
     }
   ]
 }
