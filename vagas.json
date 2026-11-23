@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-22",
+  "conferidoEm": "2026-11-23",
   "vagas": [
     {
       "id": "camara-dos-deputados-analista-legislativo-jornalismo-divulgacao-institucional-e-relacoes-publicas-camara-dos-deputados-2",
@@ -30,51 +30,6 @@
       "link": "https://www.wto.org/english/thewto_e/vacan_e/iypp_e.htm",
       "fonte": "Página do programa de estágio no site da OMC, lida em 29/10/2026. Achada com Claude em 29/10/2026; confira no anúncio",
       "vistaEm": "2026-10-29"
-    },
-    {
-      "id": "unicef-executive-associate-g-6-ft-00129172-sao-paulo-brazil-lacr-2026-11-08",
-      "titulo": "Executive Associate (G-6), FT, #00129172, Sao Paulo – Brazil, LACR",
-      "organizacao": "UNICEF",
-      "campo": "organismos",
-      "tipo": "efetivo",
-      "local": "São Paulo, Brasil",
-      "remoto": false,
-      "prazo": "2026-11-08",
-      "contrato": "Fixed Term Appointment (FT)",
-      "nota": "G-6 é nível do quadro de Serviços Gerais (General Service) da ONU e FT significa contratação por prazo determinado (Fixed-Term).",
-      "link": "https://jobs.unicef.org/cw/en-us/job/596645/executive-associate-g6-ft-00129172-sao-paulo-brazil-lacr",
-      "fonte": "Página oficial de carreiras do UNICEF (jobs.unicef.org). Achada com Gemini em 01/11/2026; confira no anúncio",
-      "vistaEm": "2026-11-01"
-    },
-    {
-      "id": "unops-trainee-area-de-projetos-exclusiva-para-pessoas-com-deficiencia-2026-11-08",
-      "titulo": "Trainee Área de Projetos (Exclusiva para Pessoas com deficiência)",
-      "organizacao": "UNOPS",
-      "campo": "organismos",
-      "tipo": "trainee",
-      "local": "Brasília, Brasil",
-      "remoto": false,
-      "prazo": "2026-11-08",
-      "contrato": "6 meses (*com possibilidade de extensão de 12 meses)",
-      "nota": "Vaga afirmativa de estágio/trainee para PCD para suporte técnico e administrativo em projetos de infraestrutura e desenvolvimento.",
-      "link": "https://careers.unops.org/careersmarketplace/JobDetail/Trainee-rea-de-Projetos-Exclusiva-para-Pessoas-com-defici-ncia/4294",
-      "fonte": "Página oficial de carreiras do UNOPS (careers.unops.org). Achada com Gemini em 01/11/2026; confira no anúncio",
-      "vistaEm": "2026-11-01"
-    },
-    {
-      "id": "unops-trainee-operacoes-exclusiva-para-pessoas-com-deficiencia-2026-11-08",
-      "titulo": "Trainee Operacões (Exclusiva para Pessoas com deficiência)",
-      "organizacao": "UNOPS",
-      "campo": "organismos",
-      "tipo": "trainee",
-      "local": "Brasília, Brasil",
-      "remoto": false,
-      "prazo": "2026-11-08",
-      "contrato": "6 meses (*com possibilidade de extensão de 12 meses)",
-      "nota": "Vaga afirmativa de trainee para PCD no apoio à logística, compras, viagens e rotinas operacionais do escritório.",
-      "link": "https://careers.unops.org/careersmarketplace/JobDetail/Trainee-Operac-es-Exclusiva-para-Pessoas-com-defici-ncia/4295",
-      "fonte": "Página oficial de carreiras do UNOPS (careers.unops.org). Achada com Gemini em 01/11/2026; confira no anúncio",
-      "vistaEm": "2026-11-01"
     },
     {
       "id": "un-habitat-programme-management-officer-human-settlements-p4-2026-12-02",
@@ -1020,6 +975,21 @@
       "link": "https://mideacarrier.gupy.io/job/eyJqb2JJZCI6MTI4NjQ5NzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "fonte": "Página oficial de carreiras da Midea Carrier no Gupy (mideacarrier.gupy.io). Achada com Gemini em 22/11/2026; confira no anúncio",
       "vistaEm": "2026-11-22"
+    },
+    {
+      "id": "grupo-ubec-especialista-em-riscos-e-compliance-2026-11-23",
+      "titulo": "Especialista em Riscos e Compliance",
+      "organizacao": "Grupo UBEC",
+      "campo": "analise",
+      "tipo": "efetivo",
+      "local": null,
+      "remoto": false,
+      "prazo": null,
+      "contrato": "Contrato em regime CLT (modelo híbrido após 3 meses)",
+      "nota": "Estruturação de programas de integridade, gestão de riscos, compliance regulatório e Lei Anticorrupção nº 12.846/13 para graduados em Direito, Economia ou Administração.",
+      "link": "https://grupoubec.gupy.io/job/eyJqb2JJZCI6MTI4MzQ4NDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "Página oficial de carreiras do Grupo UBEC no Gupy (grupoubec.gupy.io). Achada com Gemini em 23/11/2026; confira no anúncio",
+      "vistaEm": "2026-11-23"
     }
   ]
 }
