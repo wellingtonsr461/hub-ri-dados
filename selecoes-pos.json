@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-15",
+  "conferidoEm": "2026-11-24",
   "selecoes": [
     {
       "id": "ufg-ppgadm-2027",
@@ -629,6 +629,66 @@
       "inscricoesAte": "2026-11-17",
       "link": "https://www.unifap.br/mestrado-em-direito-oferta-21-vagas-para-2027/",
       "fonte": "Portal oficial da Universidade Federal do Amapá (unifap.br). Achado com Gemini em 15/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-federal-de-ouro-preto-ufop-programa-de-pos-graduacao-em-economia-aplicada-mestrado-academico-1-semestre-de-",
+      "programa": "Programa de Pós-Graduação em Economia Aplicada (Mestrado Acadêmico)",
+      "area": "economia",
+      "instituicao": "Universidade Federal de Ouro Preto (UFOP)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-11-12",
+      "inscricoesAte": "2026-11-26",
+      "link": "https://app.ufop.br/pspg/",
+      "fonte": "Sistema de Gestão dos Processos Seletivos da Pós-Graduação da UFOP (app.ufop.br/pspg). Achado com Gemini em 24/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-federal-da-paraiba-ufpb-programa-de-pos-graduacao-em-jornalismo-ppj-1-semestre-de-2027",
+      "programa": "Programa de Pós-Graduação em Jornalismo (PPJ)",
+      "area": "comunicacao-letras",
+      "instituicao": "Universidade Federal da Paraíba (UFPB)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-11-21",
+      "inscricoesAte": "2026-11-30",
+      "link": "https://sigaa.ufpb.br/publico/processo-seletivo/editais",
+      "fonte": "Portal Público de Processos Seletivos do SIGAA da UFPB (sigaa.ufpb.br), Edital nº 01/2026. Achado com Gemini em 24/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-federal-de-pelotas-ufpel-curso-de-especializacao-em-politica-desenvolvimento-e-relacoes-internacionais-nas-",
+      "programa": "Curso de Especialização em Política, Desenvolvimento e Relações Internacionais nas Fronteiras",
+      "area": "ri",
+      "instituicao": "Universidade Federal de Pelotas (UFPel)",
+      "esfera": "federal",
+      "niveis": [
+        "especializacao"
+      ],
+      "ingresso": "2º semestre de 2026",
+      "inscricoesDe": "2026-11-06",
+      "inscricoesAte": "2026-11-20",
+      "link": "https://wp.ufpel.edu.br/fronteiras/",
+      "fonte": "Página oficial do curso na Universidade Federal de Pelotas (wp.ufpel.edu.br), Edital nº 173/2026. Achado com Gemini em 24/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "instituto-federal-da-paraiba-ifpb-curso-de-pos-graduacao-lato-sensu-em-gestao-publica-ead-2026",
+      "programa": "Curso de Pós-Graduação Lato Sensu em Gestão Pública (EaD)",
+      "area": "politicas-publicas",
+      "instituicao": "Instituto Federal da Paraíba (IFPB)",
+      "esfera": "federal",
+      "niveis": [
+        "especializacao"
+      ],
+      "ingresso": null,
+      "inscricoesDe": "2026-11-09",
+      "inscricoesAte": "2026-11-16",
+      "link": "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6/",
+      "fonte": "Portal oficial da Comissão Permanente de Concursos do IFPB (concursos.ifpb.edu.br), Edital 19/2026. Achado com Gemini em 24/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
     }
   ]
 }
