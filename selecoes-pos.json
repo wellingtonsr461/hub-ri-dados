@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-25",
+  "conferidoEm": "2026-11-26",
   "selecoes": [
     {
       "id": "ufg-ppgadm-2027",
@@ -752,6 +752,36 @@
       "inscricoesAte": "2026-12-07",
       "link": "https://portal.ufgd.edu.br/noticias/ufgd-abre-inscricoes-para-23-programas-de-pos-graduacao-com-cursos-de-mestrado-e-doutorado",
       "fonte": "Portal oficial da Universidade Federal da Grande Dourados (portal.ufgd.edu.br). Achado com Gemini em 25/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-estadual-da-paraiba-uepb-programa-de-pos-graduacao-em-desenvolvimento-regional-ppgdr-1-semestre-de-2027",
+      "programa": "Programa de Pós-Graduação em Desenvolvimento Regional (PPGDR)",
+      "area": "politicas-publicas",
+      "instituicao": "Universidade Estadual da Paraíba (UEPB)",
+      "esfera": "estadual",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-11-25",
+      "inscricoesAte": "2026-12-29",
+      "link": "https://uepb.edu.br/programa-de-pos-graduacao-em-desenvolvimento-regional-abre-selecao-para-mestrado-academico-com-20-vagas/",
+      "fonte": "Portal oficial da Universidade Estadual da Paraíba (uepb.edu.br), publicado em 25/11/2026. Achado com Gemini em 26/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "fundacao-oswaldo-cruz-ensp-fiocruz-ministerio-das-cidades-mestrado-profissional-em-enfrentamento-das-violencias-contra-a",
+      "programa": "Mestrado Profissional em Enfrentamento das Violências contra as Mulheres em Favelas e Periferias Urbanas – Turma 2027",
+      "area": "politicas-publicas",
+      "instituicao": "Fundação Oswaldo Cruz (ENSP/Fiocruz) / Ministério das Cidades",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": "2027",
+      "inscricoesDe": "2026-11-25",
+      "inscricoesAte": "2027-01-11",
+      "link": "https://www.gov.br/cidades/pt-br/assuntos/noticias-1/noticia-mcid-n-2422",
+      "fonte": "Portal oficial do Ministério das Cidades (gov.br/cidades), publicado em 25/11/2026, com inscrições pela plataforma Acesso Fiocruz. Achado com Gemini em 26/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
     }
   ]
 }
