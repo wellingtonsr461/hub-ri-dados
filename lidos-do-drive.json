@@ -607,6 +607,30 @@
       "lidoEm": "2026-11-26",
       "adicionadas": 2,
       "recusadas": 3
+    },
+    {
+      "id": "18MvLBBU98abmy7anTYCG-pfAkTiVACJIvE50dqQGHOo",
+      "titulo": "HUBRI vagas-todas 2026-11-27",
+      "modificadoEm": "2026-11-27T08:56:59.334Z",
+      "lidoEm": "2026-11-27",
+      "adicionadas": 56,
+      "recusadas": 54
+    },
+    {
+      "id": "1A51WLyqajLlgZDf9EnFl0cvyYSg4-LylWtyDSGpWlZg",
+      "titulo": "HUBRI vagas-consultorias 2026-11-27",
+      "modificadoEm": "2026-11-27T08:57:58.392Z",
+      "lidoEm": "2026-11-27",
+      "adicionadas": 0,
+      "recusadas": 25
+    },
+    {
+      "id": "1SwtEoS7NUDRBttbzhy7HTGKyjOqSE-ArSOt8TBnaQUM",
+      "titulo": "HUBRI selecoes-pos 2026-11-27",
+      "modificadoEm": "2026-11-27T08:58:47.612Z",
+      "lidoEm": "2026-11-27",
+      "adicionadas": 7,
+      "recusadas": 1
     }
   ]
 }

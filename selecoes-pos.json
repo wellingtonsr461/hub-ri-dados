@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-26",
+  "conferidoEm": "2026-11-27",
   "selecoes": [
     {
       "id": "ufg-ppgadm-2027",
@@ -782,6 +782,115 @@
       "inscricoesAte": "2027-01-11",
       "link": "https://www.gov.br/cidades/pt-br/assuntos/noticias-1/noticia-mcid-n-2422",
       "fonte": "Portal oficial do Ministério das Cidades (gov.br/cidades), publicado em 25/11/2026, com inscrições pela plataforma Acesso Fiocruz. Achado com Gemini em 26/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-federal-da-grande-dourados-ufgd-programa-de-pos-graduacao-em-agronegocios-1-semestre-de-2027",
+      "programa": "Programa de Pós-Graduação em Agronegócios",
+      "area": "economia",
+      "instituicao": "Universidade Federal da Grande Dourados (UFGD)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-10-19",
+      "inscricoesAte": "2027-01-15",
+      "link": "https://editais.app.ufgd.edu.br/processo/1797/processo",
+      "fonte": "Portal oficial da Universidade Federal da Grande Dourados (portal.ufgd.edu.br), atualizado em 26/11/2026. Achado com Gemini em 27/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-federal-da-grande-dourados-ufgd-programa-de-pos-graduacao-em-ciencia-e-tecnologia-ambiental-1-semestre-de-2",
+      "programa": "Programa de Pós-Graduação em Ciência e Tecnologia Ambiental",
+      "area": "meio-ambiente",
+      "instituicao": "Universidade Federal da Grande Dourados (UFGD)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-10-19",
+      "inscricoesAte": "2026-12-07",
+      "link": "https://editais.app.ufgd.edu.br/processo/1779/processo",
+      "fonte": "Portal oficial da Universidade Federal da Grande Dourados (portal.ufgd.edu.br), atualizado em 26/11/2026. Achado com Gemini em 27/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-federal-da-grande-dourados-ufgd-programa-de-pos-graduacao-em-biodiversidade-e-meio-ambiente-1-semestre-de-2",
+      "programa": "Programa de Pós-Graduação em Biodiversidade e Meio Ambiente",
+      "area": "meio-ambiente",
+      "instituicao": "Universidade Federal da Grande Dourados (UFGD)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-10-19",
+      "inscricoesAte": "2026-11-27",
+      "link": "https://editais.app.ufgd.edu.br/processo/1783/PPGBMA",
+      "fonte": "Portal oficial da Universidade Federal da Grande Dourados (portal.ufgd.edu.br), com prazo encerrando hoje (27/11/2026). Achado com Gemini em 27/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-federal-da-grande-dourados-ufgd-programa-de-pos-graduacao-em-historia-prazo-estendido-ate-20-01-2027-1-seme",
+      "programa": "Programa de Pós-Graduação em História (prazo estendido até 20/01/2027)",
+      "area": "historia",
+      "instituicao": "Universidade Federal da Grande Dourados (UFGD)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-10-19",
+      "inscricoesAte": "2027-01-20",
+      "link": "https://editais.app.ufgd.edu.br/processo/1784/processo",
+      "fonte": "Portal oficial da Universidade Federal da Grande Dourados (portal.ufgd.edu.br), atualizado em 26/11/2026. Achado com Gemini em 27/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-federal-de-uberlandia-ufu-programa-de-pos-graduacao-em-agricultura-e-informacoes-geoespaciais-ppgaig-1-seme",
+      "programa": "Programa de Pós-Graduação em Agricultura e Informações Geoespaciais (PPGAIG)",
+      "area": "geografia",
+      "instituicao": "Universidade Federal de Uberlândia (UFU)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-12-14",
+      "inscricoesAte": "2027-01-22",
+      "link": "https://comunica.ufu.br/noticias/2026/11/mestrado-em-agricultura-e-informacoes-geoespaciais-lanca-edital-para-ingresso-de",
+      "fonte": "Portal Comunica UFU (comunica.ufu.br). Achado com Gemini em 27/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "instituto-federal-goiano-if-goiano-mestrado-em-administracao-campus-rio-verde-edital-n-32-2026-1-semestre-de-2027",
+      "programa": "Mestrado em Administração (Campus Rio Verde – Edital nº 32/2026)",
+      "area": "administracao",
+      "instituicao": "Instituto Federal Goiano (IF Goiano)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-12-07",
+      "inscricoesAte": "2027-02-05",
+      "link": "https://ifgoiano.edu.br/home/index.php/ultimas-noticias-rio-verde/31615-if-goiano-abre-selecao-para-14-programas-de-mestrado-e-doutorado-2.html",
+      "fonte": "Portal oficial do Instituto Federal Goiano (ifgoiano.edu.br). Achado com Gemini em 27/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "instituto-federal-de-mato-grosso-ifmt-pos-graduacao-lato-sensu-em-gestao-do-agronegocio-100-ead-1-semestre-de-2027",
+      "programa": "Pós-Graduação Lato Sensu em Gestão do Agronegócio (100% EaD)",
+      "area": "administracao",
+      "instituicao": "Instituto Federal de Mato Grosso (IFMT)",
+      "esfera": "federal",
+      "niveis": [
+        "especializacao"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-11-18",
+      "inscricoesAte": "2027-01-08",
+      "link": "https://ifmt.edu.br/blog/pos-graduacao-gratuita-e-100-online-em-gestao-do-agronegocio-abre-140-vagas/",
+      "fonte": "Portal oficial do Instituto Federal de Mato Grosso (ifmt.edu.br). Achado com Gemini em 27/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
     }
   ]
 }
