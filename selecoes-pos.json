@@ -1,5 +1,5 @@
 {
-  "conferidoEm": "2026-11-27",
+  "conferidoEm": "2026-11-28",
   "selecoes": [
     {
       "id": "ufg-ppgadm-2027",
@@ -891,6 +891,53 @@
       "inscricoesAte": "2027-01-08",
       "link": "https://ifmt.edu.br/blog/pos-graduacao-gratuita-e-100-online-em-gestao-do-agronegocio-abre-140-vagas/",
       "fonte": "Portal oficial do Instituto Federal de Mato Grosso (ifmt.edu.br). Achado com Gemini em 27/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-de-sao-paulo-fea-usp-programa-de-pos-graduacao-em-ciencias-contabeis-e-controladoria-ppgcc-1-semestre-de-20",
+      "programa": "Programa de Pós-Graduação em Ciências Contábeis e Controladoria (PPGCC)",
+      "area": "economia",
+      "instituicao": "Universidade de São Paulo (FEA-USP)",
+      "esfera": "estadual",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-07-01",
+      "inscricoesAte": "2026-12-04",
+      "link": "https://www.fea.usp.br/pt-br/contabilidade/pos-graduacao/processo-seletivo/candidato-aluno-regular",
+      "fonte": "Portal oficial da Faculdade de Economia, Administração, Contabilidade e Atuária da USP (fea.usp.br). Achado com Gemini em 28/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "instituto-federal-do-ceara-ifce-especializacao-em-gestao-e-controle-ambiental-campus-limoeiro-do-norte-edital-n-32-2026-",
+      "programa": "Especialização em Gestão e Controle Ambiental (Campus Limoeiro do Norte - Edital nº 32/2026)",
+      "area": "meio-ambiente",
+      "instituicao": "Instituto Federal do Ceará (IFCE)",
+      "esfera": "federal",
+      "niveis": [
+        "especializacao"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": "2026-11-27",
+      "inscricoesAte": "2027-01-18",
+      "link": "https://portal.ifce.edu.br/campus/limoeirodonorte/noticias/ifce-abre-selecao-para-especializacao-em-gestao-e-controle-ambiental-em-limoeiro-do-norte/",
+      "fonte": "Portal oficial do Instituto Federal do Ceará (portal.ifce.edu.br). Achado com Gemini em 28/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
+    },
+    {
+      "id": "universidade-federal-do-maranhao-ufma-programa-de-pos-graduacao-em-direito-e-instituicoes-do-sistema-de-justica-ppgdir-e",
+      "programa": "Programa de Pós-Graduação em Direito e Instituições do Sistema de Justiça (PPGDIR) - Edital nº 11/2026",
+      "area": "direito",
+      "instituicao": "Universidade Federal do Maranhão (UFMA)",
+      "esfera": "federal",
+      "niveis": [
+        "mestrado",
+        "doutorado"
+      ],
+      "ingresso": "1º semestre de 2027",
+      "inscricoesDe": null,
+      "inscricoesAte": "2026-11-13",
+      "link": "https://portalpadrao.ufma.br/ageufma/noticias/noticias-gerais/ufma-abre-inscricoes-para-mestrado-e-doutorado-em-direito-com-oferta-de-33-vagas-no-total",
+      "fonte": "Portal oficial da AGEUFMA/UFMA (portalpadrao.ufma.br); inscrições encerradas recentemente em 13/11/2026. Achado com Gemini em 28/11/2026; o edital não foi aberto pelo Hub RI: confira as datas nele"
     }
   ]
 }
